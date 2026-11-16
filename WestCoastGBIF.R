@@ -12,6 +12,7 @@ library(sf)
 
 #current data: GBIF.org (11 November 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.hd6k4u
 #this version uses Catologue of Life
+#details can be viewed at the DOI linked above
 
 #unzip and read in gbif download
 occurences <- occ_download_get('0002816-261110092616502') %>%
