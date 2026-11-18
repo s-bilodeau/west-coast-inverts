@@ -16,15 +16,16 @@ library(sf)
 #the same dataset using the GBIF Backbone taxonomy (16 November 2026, https://doi.org/10.15468/dl.928jhp) 
 #can be accessed by swapping the id number below to '0011061-261110092616502'
 
-#unzip and read in gbif download
-occurences <- occ_download_get('0010962-261110092616502') %>%
+#download and unzip the gbif dataset
+occurrences <- occ_download_get('0010962-261110092616502') %>%
   occ_download_import()
-#occurrences <- occ_download_import(key="0002816-261110092616502", path=".") #use this line if the zip file is in the working directory already
+#occurrences <- occ_download_import(key="0010962-261110092616502", path=".") #use this line if the zip file is in the working directory already
 
 #check total species
 length(unique(occurrences$taxonKey))
 
-#for each observation, get depth at that point from the bathymetry
+
+###for each observation, get depth at that point from the bathymetry###
 
 #make a spatial object with just decimalLatitude and decimal Longitude and gbifID (unique to each row/observation)
 pts <- st_as_sf(occurrences[,c(1,22,23)], coords=c("decimalLongitude","decimalLatitude"), crs=4326)
@@ -48,8 +49,8 @@ occ <- full_join(occurrences, depth, by="gbifID")
 #there are several rows with NA depth values...let's find out why!
 nodepth <- occ[which(is.na(occ$ETOPO2022NEPacificIceSurfaceArcMinute)==TRUE),]
 #all appear to be on the Colombia/Panama border and can be safely omitted 
-#this is likely due to a mismatch in cropping our raster and our GBIF extent but doesn't really matter, 
-#since both go well outside our intended final extent
+#this is likely due to a mismatch in cropping our raster and our GBIF extent  
+#but doesn't really matter, since both go well outside our intended final extent
 occ <- occ[which(is.na(occ$ETOPO2022NEPacificIceSurfaceArcMinute)==FALSE),]
 
 #there are a lot more rows missing GBIF depth and/or elevation
@@ -60,7 +61,9 @@ nodepth <- occ[which(is.na(occ$depth)==TRUE&is.na(occ$elevation)==TRUE),]
 #ideally before grouping by spp so that spp with no observations in the study area are excluded
 occ_short <- occ[which(occ$decimalLatitude > 22 & occ$decimalLatitude < 48.4),] #this cuts down the total unique taxonKey (spp) values
 
-#summarize observations by species, recording the min, max, and median depth for each species (by both measurement systems) and the number of observations
+
+###summarize observations by species, recording the min, max, and median depth for each species (by both measurement systems) and the number of observations###
+
 #(we will eventually also want north/south boundaries, but not until we further constrain our area of interest)
 #NOTE: there are many rows where individualCount is a value <1, so we won't attempt to quantify observed individuals this way 
 
@@ -97,6 +100,9 @@ names(sppmin) <- c("taxonKey",  "scientificName", "phylum", "class", "GBIF_depth
 names(sppmed) <- c("taxonKey",  "scientificName", "phylum", "class", "GBIF_depth_med", "ETOPO_depth_med", "Observations")
 spp <- left_join(spp, sppmin)
 spp <- left_join(spp, sppmed)
+
+
+###do some basic filtering/cleaning for observation number, depth, etc. and save the cleaned data###
 
 #remove spp with fewer than 25 observations
 spp25 <- spp[which(spp$Observations>24),] #this drops our total spp to a much more reasonable number!
@@ -140,7 +146,7 @@ for(i in 1:nrow(spp25)) {
 #we'll start by dropping any spp with a min depth (i.e., shallowest depth) >200m
 spp25 <- spp25[which(spp25$depth_min<=200),]
 
-hist(spp25$GBIF_depth_med) #most remaining species have a median depth of 200m or less
+hist(spp25$GBIF_depth_med) #most remaining species have a median depth of 500m or less
 shallow <- spp25[which(spp25$GBIF_depth_med<50),] 
 hist(shallow$GBIF_depth_med) #while many shallower spp have median depth <20m, 
 #there is no clear bimodal distribution like Pappalardo et al. describe in their data
@@ -148,7 +154,7 @@ hist(shallow$GBIF_depth_med) #while many shallower spp have median depth <20m,
 #let's also flag any species with a negative maximum depth value, i.e., all observations are above sea level
 terr <- spp25[which(spp25$depth_max<0),] #these will need to be manually checked: a quick perusal shows most are freshwater/terrestrial
 
-#save as a .csv
+#save data to a .csv file#
 #write.csv(spp25, "AllWestCoastSppSummarized.csv", row.names=FALSE)
 
 
