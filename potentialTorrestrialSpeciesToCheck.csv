@@ -1,0 +1,1151 @@
+marine,,taxonKey,scientificName,phylum,class,obs,count
+1,1146,YRT8,"Corynosoma enhydri Morozov, 1940",Acanthocephala,Palaeacanthocephala,110,57
+0,1033,LDSSC,"Allolobophora chlorotica (Savigny in Cuvier, 1826)",Annelida,Clitellata,127,123
+0,833,84LHK,"Aporrectodea Orley, 1885",Annelida,Clitellata,29,28
+0,1035,LL998,"Aporrectodea trapezoides (Duges, 1828)",Annelida,Clitellata,112,110
+0,1088,Q97S,"Cambarincola montanus (Goodnight, 1940)",Annelida,Clitellata,25,25
+0,852,84ZKD,"Dendrobaena veneta (Rosa, 1886)",Annelida,Clitellata,34,34
+0,41,38W42,"Eisenia andrei (Bouché, 1972)",Annelida,Clitellata,47,43
+0,42,38W46,"Eisenia fetida (Savigny in Cuvier, 1826)",Annelida,Clitellata,120,120
+0,1062,NJ4DS,"Eiseniella tetraedra (Savigny in Cuvier, 1826)",Annelida,Clitellata,48,44
+0,892,9C7S4,"Eremidrilus chalonensis Rodriguez & Fend, 2022",Annelida,Clitellata,72,72
+0,485,6GDPP,"Eremidrilus felini Fend & Rodriguez, 2003",Annelida,Clitellata,28,26
+0,1073,PD7F5,"Helobdella stagnalis (Linnaeus, 1758)",Annelida,Clitellata,32,32
+0,1089,QC5QZ,"Lumbricus castaneus (Savigny in Cuvier, 1826)",Annelida,Clitellata,26,26
+0,535,6R26H,"Lumbricus rubellus Hoffmeister, 1843",Annelida,Clitellata,50,46
+0,534,6R26F,"Lumbricus terrestris Linnaeus, 1758",Annelida,Clitellata,371,362
+0,874,8SZC7,"Octolasion cyaneum (Savigny in Cuvier, 1826)",Annelida,Clitellata,128,126
+0,1099,RT9ZB,"Placobdella parasitica (Say, 1824)",Annelida,Clitellata,49,47
+1,965,BSN6,"Alitta succinea (Leuckart, 1847)",Annelida,Polychaeta,40,38
+1,855,85R8K,"Alitta williami Villalobos-Guerrero & Bakken, 2018",Annelida,Polychaeta,43,34
+1,847,84WL4,"Amblyosyllis nigrolineata Okada, 1934",Annelida,Polychaeta,34,21
+1,1001,GB5B,"Arctonoe fragilis (Baird, 1863)",Annelida,Polychaeta,135,79
+1,1002,GB5D,"Arctonoe pulchra (Johnson, 1897)",Annelida,Polychaeta,80,42
+1,1003,GB5F,"Arctonoe vittata (Grube, 1855)",Annelida,Polychaeta,124,74
+1,1043,M8HK,"Boccardia proboscidea Hartman, 1940",Annelida,Polychaeta,66,38
+1,1044,M8HS,"Boccardia tricuspa (Hartman, 1939)",Annelida,Polychaeta,27,16
+1,1045,M8HX,"Boccardiella hamata (Webster, 1879)",Annelida,Polychaeta,42,26
+1,1101,RX75,"Caulleriella alata (Southern, 1914)",Annelida,Polychaeta,26,17
+1,835,84M6F,"Caulleriella Chamberlin, 1919",Annelida,Polychaeta,34,18
+1,856,85RBL,"Chaetopterus dewysee Tilic & Rouse, 2020",Annelida,Polychaeta,37,21
+1,474,6DHDZ,"Dorvillea moniloceras (Moore, 1909)",Annelida,Polychaeta,150,114
+1,50,3BKNT,"Eteone californica Hartman, 1936",Annelida,Polychaeta,176,111
+1,56,3C2CW,"Eudistylia vancouveri (Kinberg, 1866)",Annelida,Polychaeta,882,477
+1,58,3C9QV,"Eulalia quadrioculata Moore, 1906",Annelida,Polychaeta,51,29
+1,490,6HVS2,"Ficopomatus enigmaticus (Fauvel, 1923)",Annelida,Polychaeta,332,214
+1,837,84NPK,"Ficopomatus Southern, 1921",Annelida,Polychaeta,33,33
+1,493,6J6PD,"Flabelligera infundibularis Johnson, 1901",Annelida,Polychaeta,25,15
+1,82,3JG7C,"Halosydna johnsoni (Darboux, 1899)",Annelida,Polychaeta,70,39
+1,104,3N79Y,"Hydroides brachyacantha Rioja, 1941",Annelida,Polychaeta,71,39
+1,838,84P7C,"Hydroides Gunnerus, 1768",Annelida,Polychaeta,133,102
+1,516,6NTL2,"Laeonereis culveri (Webster, 1879)",Annelida,Polychaeta,53,53
+1,841,84PY9,"Maldane Grube, 1860",Annelida,Polychaeta,30,18
+1,173,3YZP3,"Megasyllis nipponica (Imajima, 1966)",Annelida,Polychaeta,116,71
+1,842,84QNJ,"Myrianida Milne Edwards, 1845",Annelida,Polychaeta,43,23
+1,213,474VY,"Nereis vexillosa Grube, 1851",Annelida,Polychaeta,332,175
+1,260,4DLKV,"Pareurythoe californica (Johnson, 1897)",Annelida,Polychaeta,122,71
+1,266,4GTTG,"Phragmatopoma californica (Fewkes, 1889)",Annelida,Polychaeta,2716,1843
+1,945,BFZYN,"Phyllodoce (Anaitides) Czerniavsky, 1882",Annelida,Polychaeta,54,35
+1,268,4H6VH,"Phyllodoce medipapillata Moore, 1909",Annelida,Polychaeta,155,80
+1,274,4J9SB,"Pista pacifica Berkeley & Berkeley, 1942",Annelida,Polychaeta,45,28
+1,284,4LCTF,"Polyophthalmus pictus (Dujardin, 1839)",Annelida,Polychaeta,53,27
+1,600,788D9,"Prionospio heterobranchia Moore, 1907",Annelida,Polychaeta,32,17
+1,310,4RC5K,"Ramex californiensis Hartman, 1944",Annelida,Polychaeta,30,26
+1,565,6Y7K2,"Schizobranchia insignis Bush, 1905",Annelida,Polychaeta,195,105
+1,854,854RR,"Scoloplos acmeceps Chamberlin, 1919",Annelida,Polychaeta,71,55
+1,568,6ZBGD,"Spio maculata (Hartman, 1961)",Annelida,Polychaeta,26,15
+1,388,5L9M8,"Spiochaetopterus costarum pottsi (Berkeley, 1927)",Annelida,Polychaeta,62,33
+1,336,4Z7SY,"Spirobranchus spinosus Moore, 1923",Annelida,Polychaeta,1114,657
+1,361,56KB4,"Thoracophelia dillonensis (Hartman, 1938)",Annelida,Polychaeta,50,33
+1,376,59YRF,"Typosyllis pulchra (Berkeley & Berkeley, 1938)",Annelida,Polychaeta,27,15
+1,619,7DPY3,"Urechis caupo Fisher & MacGinitie, 1928",Annelida,Polychaeta,145,89
+0,1013,GVVZ,"Artemia franciscana Kellogg, 1906",Arthropoda,Branchiopoda,35,33
+0,1056,N6G5,"Branchinecta conservatio Eng, Belk & Eriksen, 1990",Arthropoda,Branchiopoda,72,62
+0,1057,N6GM,"Branchinecta lindahli Packard, 1883",Arthropoda,Branchiopoda,249,214
+0,1058,N6GR,"Branchinecta mackini Dexter, 1956",Arthropoda,Branchiopoda,26,25
+0,1059,N6HJ,"Branchinecta sandiegonensis Fugate, 1993",Arthropoda,Branchiopoda,39,26
+0,60,3CSP,"Branchinecta Verrill, 1869",Arthropoda,Branchiopoda,541,537
+0,96,3L4P,"Ceriodaphnia Dana, 1853",Arthropoda,Branchiopoda,41,40
+0,1109,SY66,"Ceriodaphnia dubia Richard, 1894",Arthropoda,Branchiopoda,235,235
+0,948,BJMW9,"Cyzicus californicus (Packard, 1874)",Arthropoda,Branchiopoda,325,324
+0,10,345BZ,"Daphnia (Daphnia) mendotae Birge, 1918",Arthropoda,Branchiopoda,26,25
+0,52,3BP35,"Eubranchipus (Eubranchipus) oregonus Creaser, 1930",Arthropoda,Branchiopoda,88,83
+0,519,6PC28,"Lepidurus packardi Simon, 1886",Arthropoda,Branchiopoda,390,364
+0,530,6QG2Q,"Linderiella occidentalis (Dodds, 1923)",Arthropoda,Branchiopoda,133,124
+0,951,BJSYZ,"Lynceus brachyurus O. F. Müller, 1776",Arthropoda,Branchiopoda,25,25
+0,157,3XBZS,"Macrothrix hirsuticornis Norman & Brady, 1867",Arthropoda,Branchiopoda,509,509
+0,413,63BYF,"Moina Baird, 1850",Arthropoda,Branchiopoda,127,127
+0,537,6RMDX,"Moina micrura Kurz, 1875",Arthropoda,Branchiopoda,365,354
+0,564,6Y6RG,"Scapholeberis rammneri Dumont & Pensaert, 1983",Arthropoda,Branchiopoda,41,39
+0,628,7H2D,"Simocephalus Schoedler, 1858",Arthropoda,Branchiopoda,158,158
+0,371,58WLQ,"Triops longicaudatus (LeConte, 1846)",Arthropoda,Branchiopoda,32,32
+1,629,7NML2,"Acanthocyclops Kiefer, 1927",Arthropoda,Copepoda,140,140
+0,707,7Q93L,"Acanthocyclops robustus (Sars G.O., 1863)",Arthropoda,Copepoda,546,535
+0,708,7Q93S,"Acanthocyclops vernalis (Fischer, 1853)",Arthropoda,Copepoda,464,455
+1,392,5VCSP,"Anthessius navanacis (Wilson C.B., 1935)",Arthropoda,Copepoda,28,21
+1,941,BF29Y,"Bassettia Stebbing, 1900",Arthropoda,Copepoda,32,32
+1,451,68TYW,"Caligus hobsoni Cressey, 1969",Arthropoda,Copepoda,50,50
+1,650,7NYZZ,"Ergasilus von Nordmann, 1832",Arthropoda,Copepoda,51,51
+0,97,3L5DP,"Hesperodiaptomus franciscanus (Lilljeborg in Guerne & Richard, 1889)",Arthropoda,Copepoda,105,105
+1,110,3Q7CJ,"Ismaila belciki Ho, 1987",Arthropoda,Copepoda,45,33
+1,670,7P9BJ,"Lepeophtheirus von Nordmann, 1832",Arthropoda,Copepoda,28,24
+1,297,4NTGY,"Pseudochondracanthus diceraus Wilson C.B., 1908",Arthropoda,Copepoda,43,43
+1,709,7QCHZ,"Achelous xantusii Stimpson, 1860",Arthropoda,Malacostraca,417,284
+0,967,BXNC,"Alloniscus perconvexus Dana, 1854",Arthropoda,Malacostraca,545,389
+1,632,7NNV8,"Ampelisca Krøyer, 1842",Arthropoda,Malacostraca,334,182
+1,987,CY3M,"Ampelisca milleri J.L. Barnard, 1954",Arthropoda,Malacostraca,464,248
+1,989,D7FK,"Ampithoe lacertosa Spence Bate, 1858",Arthropoda,Malacostraca,74,50
+1,633,7NNXX,"Ampithoe Leach, 1814",Arthropoda,Malacostraca,73,38
+1,429,66GTG,"Ampithoe simulans Aldeman, 1936",Arthropoda,Malacostraca,33,24
+1,994,FTC2,"Apohyale anceps (J.L. Barnard, 1969)",Arthropoda,Malacostraca,39,27
+1,995,FTC6,"Apohyale californica (J.L. Barnard, 1969)",Arthropoda,Malacostraca,36,23
+1,996,G66B,"Aratus pisonii (H. Milne Edwards, 1837)",Arthropoda,Malacostraca,44,36
+1,998,G7RN,"Archaeomysis grebnitzkii Czerniavsky, 1882",Arthropoda,Malacostraca,69,44
+1,999,G7RR,"Archaeomysis maculata (Holmes, 1894)",Arthropoda,Malacostraca,27,25
+0,441,67PWH,"Arcitalitrus sylvaticus (Haswell, 1879)",Arthropoda,Malacostraca,72,67
+1,395,5W3HF,"Arenaeus mexicanus (Gerstaecker, 1856)",Arthropoda,Malacostraca,32,17
+0,1034,LFNCQ,"Armadillidium Brandt in Brandt & Ratzeburg, 1831",Arthropoda,Malacostraca,113,112
+0,1008,GRLD,"Armadillidium vulgare (Latreille, 1804)",Arthropoda,Malacostraca,23920,23407
+0,1009,GRSZ,"Armadilloniscus coronacapitalis Menzies, 1950",Arthropoda,Malacostraca,75,68
+0,1010,GRT6,"Armadilloniscus holmesi Arcangeli, 1933",Arthropoda,Malacostraca,115,98
+0,1011,GRTF,"Armadilloniscus lindahli (Richardson, 1905)",Arthropoda,Malacostraca,52,48
+1,848,84WXS,"Betaeus longidactylus Lockington, 1877",Arthropoda,Malacostraca,73,44
+1,914,B3MSS,"Blepharipoda occidentalis J. W. Randall, 1840",Arthropoda,Malacostraca,1273,783
+0,1054,N3DH,"Brackenridgia heroldi (Arcangeli, 1932)",Arthropoda,Malacostraca,72,71
+1,831,7ZK34,"Bulychevia enigmatica (Bousfield & Carlton, 1967)",Arthropoda,Malacostraca,53,51
+0,1070,P7RJ,"Caecidotea tomalensis (Harford, 1877)",Arthropoda,Malacostraca,37,34
+1,1074,PFQV,"Calappa convexa de Saussure, 1853",Arthropoda,Malacostraca,39,21
+1,915,B3MZ5,"Calcinus californiensis Bouvier, 1898",Arthropoda,Malacostraca,111,68
+1,955,BMK7H,"Callianassa Leach, 1814",Arthropoda,Malacostraca,51,28
+1,1078,PQY2,"Callinectes arcuatus Ordway, 1863",Arthropoda,Malacostraca,166,102
+1,1093,QKFX,"Cancer productus Randall, 1840",Arthropoda,Malacostraca,7541,4376
+1,1096,R48N,"Carcinus maenas (Linnaeus, 1758)",Arthropoda,Malacostraca,11109,10817
+1,400,5WZB7,"Cardisoma crassum Smith, 1870",Arthropoda,Malacostraca,108,101
+1,927,B49XC,"Clibanarius panamensis (Stimpson, 1859)",Arthropoda,Malacostraca,28,25
+1,916,B3P82,"Coenobita compressus H. Milne-Edwards, 1836",Arthropoda,Malacostraca,200,142
+1,1135,X2HW,"Colidotea rostrata (Benedict, 1898)",Arthropoda,Malacostraca,25,15
+0,644,7NTPJ,"Crangonyx Spence Bate, 1859",Arthropoda,Malacostraca,50,50
+0,1,328BK,"Cubaris murina Brandt, 1833",Arthropoda,Malacostraca,45,33
+1,8,32YRY,"Cycloxanthops novemdentatus (Lockington, 1877)",Arthropoda,Malacostraca,498,273
+0,21,354V8,"Detonella papillicornis (Richardson, 1904)",Arthropoda,Malacostraca,34,26
+1,1060,N9GCC,"Echidnocerus cibarius White, 1842",Arthropoda,Malacostraca,47,24
+1,649,7NYBG,"Elasmopus A. Costa, 1853",Arthropoda,Malacostraca,38,20
+1,43,39DBN,"Elthusa californica (Schioedte & Meinert, 1884)",Arthropoda,Malacostraca,66,58
+0,44,39DD7,"Eluma caelata (Miers, 1878)",Arthropoda,Malacostraca,96,94
+1,917,B3R3N,"Emerita analoga (Stimpson, 1857)",Arthropoda,Malacostraca,8013,5438
+1,479,6FK59,"Eogammarus confervicolus (Stimpson, 1856)",Arthropoda,Malacostraca,48,34
+1,486,6GN9Q,"Ericerodes hemphillii (Lockington, 1877)",Arthropoda,Malacostraca,93,71
+1,49,3B738,"Eriphia squamata Stimpson, 1859",Arthropoda,Malacostraca,87,47
+1,487,6HGKS,"Eurylana arcuata (Hale, 1925)",Arthropoda,Malacostraca,26,18
+1,64,3D5RY,"Eurypanopeus canalensis Abele & Kim, 1989",Arthropoda,Malacostraca,36,36
+1,68,3DJX9,"Excirolana chiltoni (Richardson, 1905)",Arthropoda,Malacostraca,398,283
+1,979,CJ3WG,"Exosphaeroma inornata Dow, 1958",Arthropoda,Malacostraca,206,129
+0,810,7TVSF,"Faxonius neglectus (Faxon, 1885)",Arthropoda,Malacostraca,54,54
+0,811,7TVTY,"Faxonius virilis (Hagen, 1870)",Arthropoda,Malacostraca,39,39
+1,73,3FPX2,"Geograpsus lividus (H. Milne Edwards, 1837)",Arthropoda,Malacostraca,30,21
+1,497,6KH32,"Glebocarcinus oregonensis (Dana, 1852)",Arthropoda,Malacostraca,821,519
+1,656,7P3ZT,"Gnorimosphaeroma Menzies, 1954",Arthropoda,Malacostraca,26,18
+1,499,6KMSR,"Gnorimosphaeroma noblei Menzies, 1954",Arthropoda,Malacostraca,68,47
+1,77,3GNSB,"Gnorimosphaeroma oregonense (Dana, 1853)",Arthropoda,Malacostraca,119,70
+1,500,6KQJK,"Goniopsis pulchra (Lockington, 1877)",Arthropoda,Malacostraca,183,161
+1,503,6L587,"Grapsus grapsus (Linnaeus, 1758)",Arthropoda,Malacostraca,822,493
+0,949,BJQ5G,"Haplophthalmus danicus Budde-Lund, 1879",Arthropoda,Malacostraca,46,46
+0,1027,KZJJ2,"Hartnollius quadratus (de Saussure, 1853)",Arthropoda,Malacostraca,36,24
+1,90,3KP84,"Hemigrapsus nudus (Dana, 1851)",Arthropoda,Malacostraca,6550,4217
+1,91,3KP86,"Hemigrapsus oregonensis (Dana, 1851)",Arthropoda,Malacostraca,6535,4622
+1,881,8V8P7,"Heptacarpus brevirostris (Dana, 1852)",Arthropoda,Malacostraca,636,414
+1,882,8V8Q2,"Heptacarpus sitchensis (Brandt, 1851)",Arthropoda,Malacostraca,837,551
+1,883,8V8Q4,"Heptacarpus stylus (Stimpson, 1864)",Arthropoda,Malacostraca,59,33
+0,103,3MVNH,"Hyalella azteca (Saussure, 1858)",Arthropoda,Malacostraca,33,31
+0,662,7P6GD,"Hyalella S.I. Smith, 1874",Arthropoda,Malacostraca,62,62
+1,106,3P6WG,"Ianiropsis tridens Menzies, 1952",Arthropoda,Malacostraca,39,21
+1,510,6N5CT,"Idotea fewkesi Richardson, 1905",Arthropoda,Malacostraca,196,126
+1,511,6N5DN,"Idotea stenops Benedict, 1898",Arthropoda,Malacostraca,39,30
+1,512,6N5FG,"Idotea wosnesenskii Brandt, 1851",Arthropoda,Malacostraca,42,22
+1,918,B3VL8,"Isocheles pilosus (Holmes, 1900)",Arthropoda,Malacostraca,203,109
+1,114,3QMZF,"Jassa falcata (Montagu, 1808)",Arthropoda,Malacostraca,35,18
+1,115,3QPWY,"Joeropsis dubia Menzies, 1951",Arthropoda,Malacostraca,44,29
+1,919,B3VYV,"Lepidopa californica Efford, 1971",Arthropoda,Malacostraca,83,52
+1,840,84PMK,"Leptochelia Dana, 1849",Arthropoda,Malacostraca,71,41
+1,132,3TZF5,"Leptuca crenulata (Lockington, 1877)",Arthropoda,Malacostraca,1315,1052
+1,523,6PXC6,"Ligia (Megaligia) exotica Roux, 1828",Arthropoda,Malacostraca,46,43
+1,1082,Q4DPK,"Ligia baudiniana H. Milne Edwards, 1840",Arthropoda,Malacostraca,30,29
+1,573,729BJ,"Ligia occidentalis Dana, 1853",Arthropoda,Malacostraca,2224,1613
+1,574,729BK,"Ligia pallasii Brandt, 1833",Arthropoda,Malacostraca,1176,785
+0,528,6Q9CP,"Ligidium latum Jackson, 1923",Arthropoda,Malacostraca,158,157
+1,897,9CSGT,"Lissocrangon stylirostris (Holmes, 1900)",Arthropoda,Malacostraca,232,163
+1,912,9XNNJ,"Litopenaeus vannamei (Boone, 1931)",Arthropoda,Malacostraca,36,20
+0,533,6QKC8,"Littorophiloscia richardsonae (Holmes & Gay, 1909)",Arthropoda,Malacostraca,137,113
+1,141,3W3SH,"Lophopanopeus bellus (Stimpson, 1860)",Arthropoda,Malacostraca,754,437
+1,884,8V9JB,"Lysmata californica (Stimpson, 1866)",Arthropoda,Malacostraca,384,261
+0,903,9GQ5Q,"Macrobrachium americanum Spence Bate, 1868",Arthropoda,Malacostraca,29,28
+0,904,9GQG4,"Macrobrachium tenellum (S. I. Smith, 1871)",Arthropoda,Malacostraca,52,48
+1,166,3YVSR,"Megalorchestia benedicti (Shoemaker, 1930)",Arthropoda,Malacostraca,161,107
+1,167,3YVSS,"Megalorchestia californiana Brandt, 1851",Arthropoda,Malacostraca,1720,1170
+1,168,3YVST,"Megalorchestia columbiana (Bousfield, 1958)",Arthropoda,Malacostraca,563,364
+1,577,7386Q,"Megalorchestia corniculata (Stout, 1913)",Arthropoda,Malacostraca,749,530
+1,169,3YVSW,"Megalorchestia minor (Bousfield, 1957)",Arthropoda,Malacostraca,221,146
+1,170,3YVSX,"Megalorchestia pugettensis (Dana, 1853)",Arthropoda,Malacostraca,258,191
+1,898,9CTDR,"Mesocrangon munitella (A. O. Walker, 1898)",Arthropoda,Malacostraca,36,20
+1,179,428WY,"Metacarcinus anthonyi (Rathbun, 1897)",Arthropoda,Malacostraca,1119,770
+1,180,428X2,"Metacarcinus gracilis (Dana, 1852)",Arthropoda,Malacostraca,8329,7487
+1,830,7XC3Q,"Mithrax armatus de Saussure, 1853",Arthropoda,Malacostraca,37,20
+1,957,BMV4D,"Neotrypaea biffari (Holthuis, 1991)",Arthropoda,Malacostraca,95,48
+1,958,BMV4F,"Neotrypaea californiensis (Dana, 1854)",Arthropoda,Malacostraca,385,238
+1,959,BMV4H,"Neotrypaea gigas (Dana, 1852)",Arthropoda,Malacostraca,88,61
+0,215,47C7R,"Niambia capensis (Dollfus, 1895)",Arthropoda,Malacostraca,132,108
+1,231,48LWQ,"Ocypode occidentalis Stimpson, 1860",Arthropoda,Malacostraca,330,208
+1,920,B3Y3B,"Oedignathus inermis (Stimpson, 1860)",Arthropoda,Malacostraca,282,149
+0,239,49K6K,"Oniscus asellus Linnaeus, 1758",Arthropoda,Malacostraca,1707,1663
+1,688,7PNKH,"Orchestoidea Nicolet, 1849",Arthropoda,Malacostraca,81,52
+1,586,74SNL,"Oregonia gracilis Dana, 1851",Arthropoda,Malacostraca,575,301
+1,545,6T9CQ,"Orthione griffenis Markham, 2004",Arthropoda,Malacostraca,69,48
+1,248,4BSBZ,"Pachygrapsus crassipes Randall, 1840",Arthropoda,Malacostraca,26328,17322
+1,249,4BSCM,"Pachygrapsus socius Stimpson, 1871",Arthropoda,Malacostraca,96,69
+1,250,4BSCP,"Pachygrapsus transversus (Gibbes, 1850)",Arthropoda,Malacostraca,38,26
+0,824,7W7FR,"Pacifastacus leniusculus (Dana, 1852)",Arthropoda,Malacostraca,3129,3102
+0,825,7W7FT,"Pacifastacus trowbridgi (Stimpson, 1857)",Arthropoda,Malacostraca,54,52
+1,921,B3YKK,"Pagurus hirsutiusculus (Dana, 1851)",Arthropoda,Malacostraca,3832,2348
+1,922,B3YLQ,"Pagurus redondoensis Wicksten, 1982",Arthropoda,Malacostraca,68,51
+1,923,B3YLV,"Pagurus samuelis (Stimpson, 1857)",Arthropoda,Malacostraca,8661,5740
+1,924,B3YM3,"Pagurus spilocarpus Haig, 1977",Arthropoda,Malacostraca,37,26
+1,925,B3YM9,"Pagurus venturensis Coffin, 1957",Arthropoda,Malacostraca,1501,885
+1,905,9GR49,"Palaemon macrodactylus M. J. Rathbun, 1902",Arthropoda,Malacostraca,172,116
+1,1030,L2GGV,"Panopeus chilensis H. Milne Edwards & Lucas, 1843",Arthropoda,Malacostraca,25,21
+1,548,6TMD6,"Panopeus mirafloresensis Abele & Kim, 1989",Arthropoda,Malacostraca,42,41
+1,255,4CG7J,"Panopeus purpureus Lockington, 1877",Arthropoda,Malacostraca,30,20
+1,853,853XT,"Panulirus inflatus (Bouvier, 1895)",Arthropoda,Malacostraca,155,87
+1,256,4CP6R,"Paracerceis sculpta (Holmes, 1904)",Arthropoda,Malacostraca,63,41
+1,899,9CZB7,"Paracrangon echinata Dana, 1852",Arthropoda,Malacostraca,51,27
+1,589,75Z5K,"Pelia tumida (Lockington, 1877)",Arthropoda,Malacostraca,114,58
+1,592,76Q68,"Pentidotea aculeata Stafford, 1913",Arthropoda,Malacostraca,201,110
+1,594,77268,"Pentidotea kirchanskii (Miller & Lee, 1970)",Arthropoda,Malacostraca,110,69
+1,552,6V25X,"Pentidotea montereyensis Maloney, 1933",Arthropoda,Malacostraca,210,132
+1,591,76Q5X,"Pentidotea resecata (Stimpson, 1857)",Arthropoda,Malacostraca,789,472
+1,593,7725X,"Pentidotea schmitti (Menzies, 1950)",Arthropoda,Malacostraca,57,45
+1,595,77269,"Pentidotea stenops (Benedict, 1898)",Arthropoda,Malacostraca,304,176
+1,553,6V25Y,"Pentidotea wosnesenskii (Brandt, 1851)",Arthropoda,Malacostraca,1681,1076
+1,934,B86QT,"Petrolisthes cabrilloi Glassell, 1945",Arthropoda,Malacostraca,332,202
+1,935,B86QW,"Petrolisthes cinctipes (J. W. Randall, 1840)",Arthropoda,Malacostraca,1353,767
+1,936,B86S5,"Petrolisthes robsonae Glassell, 1945",Arthropoda,Malacostraca,43,41
+0,264,4GCYW,"Philoscia (Littorophiloscia) richardsonae Holmes & Gay, 1909",Arthropoda,Malacostraca,48,44
+0,944,BFQK8,"Philoscia (Philoscia) muscorum (Scopoli, 1763)",Arthropoda,Malacostraca,849,828
+1,926,B3ZBM,"Phimochirus californiensis (J. E. Benedict, 1892)",Arthropoda,Malacostraca,50,35
+1,273,4HVX9,"Pilumnus spinohirsutus (Lockington, 1877)",Arthropoda,Malacostraca,126,78
+1,826,7WGWV,"Pinnixa faba (Dana, 1851)",Arthropoda,Malacostraca,41,23
+1,827,7WGX2,"Pinnixa littoralis Holmes, 1895",Arthropoda,Malacostraca,37,24
+1,275,4JJQZ,"Planes minutus (Linnaeus, 1758)",Arthropoda,Malacostraca,64,39
+0,279,4JNRK,"Platyarthrus aiasensis Legrand, 1954",Arthropoda,Malacostraca,27,27
+1,690,7PTQL,"Pontogeneia Boeck, 1871",Arthropoda,Malacostraca,63,35
+0,950,BJQ5J,"Porcellio dilatatus Brandt in Brandt & Ratzeburg, 1831",Arthropoda,Malacostraca,1366,1288
+0,286,4LW9G,"Porcellio laevis Latreille, 1804",Arthropoda,Malacostraca,3020,2930
+0,691,7PTS4,"Porcellio Latreille, 1804",Arthropoda,Malacostraca,91,88
+0,558,6VVV3,"Porcellio scaber Latreille, 1804",Arthropoda,Malacostraca,4395,4073
+0,287,4LWJ4,"Porcellionides floria Garthwaite & Sassaman, 1985",Arthropoda,Malacostraca,93,93
+0,692,7PTS5,"Porcellionides Miers, 1878",Arthropoda,Malacostraca,387,374
+0,288,4LWK2,"Porcellionides pruinosus (Brandt, 1833)",Arthropoda,Malacostraca,63,55
+0,829,7WLRT,"Procambarus clarkii (Girard, 1852)",Arthropoda,Malacostraca,4337,4272
+0,693,7PV9X,"Procambarus Ortmann, 1905",Arthropoda,Malacostraca,26,26
+1,291,4N5LH,"Protohyale (Protohyale) frequens (Stout, 1913)",Arthropoda,Malacostraca,26,15
+1,305,4QFYB,"Pugettia dalli Rathbun, 1894",Arthropoda,Malacostraca,175,107
+1,306,4QFYF,"Pugettia gracilis Dana, 1851",Arthropoda,Malacostraca,537,275
+1,314,4SBRY,"Rhithropanopeus harrisii (Gould, 1841)",Arthropoda,Malacostraca,113,61
+1,562,6WWKJ,"Romaleon antennarium (Stimpson, 1856)",Arthropoda,Malacostraca,6932,3986
+0,696,7PZ47,"Scleropactes Budde-Lund, 1885",Arthropoda,Malacostraca,25,25
+1,333,4YQPZ,"Sphaeroma pentodon Richardson, 1904",Arthropoda,Malacostraca,59,51
+1,334,4YQQB,"Sphaeroma quoianum H. Milne Edwards, 1840",Arthropoda,Malacostraca,95,91
+1,343,53TTD,"Synapseudes intumescens Menzies, 1949",Arthropoda,Malacostraca,51,38
+0,886,8VCLV,"Syncaris pacifica (Holmes, 1895)",Arthropoda,Malacostraca,33,29
+1,344,53X9T,"Synidotea harfordi Benedict, 1897",Arthropoda,Malacostraca,57,34
+1,607,7BJBX,"Taliepus nuttallii (Randall, 1840)",Arthropoda,Malacostraca,1349,811
+1,353,558M4,"Telmessus cheiragonus (Tilesius, 1815)",Arthropoda,Malacostraca,645,371
+1,612,7CN47,"Traskorchestia traskiana (Stimpson, 1857)",Arthropoda,Malacostraca,727,605
+0,366,58G89,"Trichoniscus pygmaeus G. O. Sars, 1898",Arthropoda,Malacostraca,26,26
+0,614,7CZQS,"Tylos punctatus Holmes & Gay, 1909",Arthropoda,Malacostraca,83,64
+1,618,7DDQV,"Uca (Leptuca) crenulata (Lockington, 1877)",Arthropoda,Malacostraca,26,16
+1,832,84GD6,"Uca princeps (Smith, 1870)",Arthropoda,Malacostraca,465,444
+1,960,BMXLF,"Upogebia pugettensis (Dana, 1852)",Arthropoda,Malacostraca,140,74
+0,626,7FLKW,"Venezillo microphthalmus (Arcangeli, 1932)",Arthropoda,Malacostraca,135,130
+0,625,7FLK5,"Venezillo stuckchensis (Mulaik, 1960)",Arthropoda,Malacostraca,25,24
+0,834,84M48,"Candona Baird, 1845",Arthropoda,Ostracoda,27,27
+0,836,84MPQ,"Cypridopsis Brady, 1867",Arthropoda,Ostracoda,166,166
+0,976,CFN2J,"Cypris pubera Müller, 1776",Arthropoda,Ostracoda,47,47
+0,937,B8XYL,"Eucypris Vavra, 1891",Arthropoda,Ostracoda,362,362
+0,55,3BYW8,"Eucypris virens (Jurine, 1820)",Arthropoda,Ostracoda,597,597
+0,956,BMKW8,"Herpetocypris Brasy & Norman, 1889",Arthropoda,Ostracoda,35,35
+0,902,9GM9Q,"Heterocypris Claus, 1892",Arthropoda,Ostracoda,482,478
+0,1069,P7HXK,"Heterocypris incongruens (Ramdohr, 1808)",Arthropoda,Ostracoda,412,405
+0,839,84P97,"Ilyocypris Brady & Norman, 1889",Arthropoda,Ostracoda,45,45
+0,895,9CL7F,"Limnocythere Brady, 1868",Arthropoda,Ostracoda,224,224
+0,1094,QLC7X,"Megalocypris Sars, 1898",Arthropoda,Ostracoda,85,85
+0,844,84SMD,"Potamocypris Brady, 1870",Arthropoda,Ostracoda,120,120
+0,290,4M3HQ,"Potamocypris smaragdina (Vavra, 1891)",Arthropoda,Ostracoda,46,45
+1,319,4TTC6,"Rutiderma rotunda Poulsen, 1965",Arthropoda,Ostracoda,26,18
+1,845,84TFB,"Sarsiella Norman, 1869",Arthropoda,Ostracoda,47,28
+0,846,84TWH,"Strandesia Stuhlmann, 1888",Arthropoda,Ostracoda,54,54
+0,1123,TRFVN,"Uncinocythere columbia (Dobbin, 1941)",Arthropoda,Ostracoda,25,25
+0,1124,TRFX2,"Uncinocythere occidentalis (Kozloff & Whitman, 1954)",Arthropoda,Ostracoda,65,63
+1,415,64GPJ,"Achelia chelata (Hilton, 1939)",Arthropoda,Pycnogonida,28,15
+1,986,CVM9,"Ammothella tuberculata Cole, 1904",Arthropoda,Pycnogonida,25,15
+1,1032,LCHHJ,"Amphibalanus amphitrite (Darwin, 1854)",Arthropoda,Thecostraca,251,216
+1,1048,MMNX2,"Balanus eburneus Gould, 1841",Arthropoda,Thecostraca,38,38
+1,1049,MMQ75,"Balanus glandula Darwin, 1854",Arthropoda,Thecostraca,3606,2123
+1,1052,MVLDZ,"Chthamalus dalli Pilsbry, 1916",Arthropoda,Thecostraca,619,380
+1,1053,MVLG3,"Chthamalus fissus Darwin, 1854",Arthropoda,Thecostraca,235,118
+1,1061,NGSFN,"Dosima fascicularis (Ellis & Solander, 1786)",Arthropoda,Thecostraca,358,244
+1,1066,P2DH8,"Euraphia eastropacensis Laguna, 1987",Arthropoda,Thecostraca,29,29
+1,1067,P3T63,"Fistulobalanus suturaltus (Henry, 1973)",Arthropoda,Thecostraca,29,29
+1,1083,Q4MY9,"Lepas anatifera Linnaeus, 1758",Arthropoda,Thecostraca,419,282
+1,1084,Q4MZ6,"Lepas hillii (Leach, 1818)",Arthropoda,Thecostraca,32,23
+1,1085,Q4N2B,"Lepas pacifica Henry, 1940",Arthropoda,Thecostraca,553,376
+1,1091,QJMH2,"Megabalanus tintinnabulum (Linnaeus, 1758)",Arthropoda,Thecostraca,48,28
+1,1092,QK86X,"Menesiniella regalis (Pilsbry, 1916)",Arthropoda,Thecostraca,87,54
+1,1097,RHPT4,"Paraconcavus pacificus (Pilsbry, 1916)",Arthropoda,Thecostraca,756,482
+1,1103,S2SV2,"Pollicipes elegans (Lesson, 1831)",Arthropoda,Thecostraca,34,24
+1,1104,S2SXV,"Pollicipes polymerus Sowerby, 1833",Arthropoda,Thecostraca,12908,7885
+1,1114,T237V,"Semibalanus cariosus (Pallas, 1788)",Arthropoda,Thecostraca,2669,1374
+1,1115,T54N3,"Tetraclita rubescens (Darwin, 1854)",Arthropoda,Thecostraca,5605,2832
+1,1116,T54NP,"Tetraclita squamosa (Bruguière, 1789)",Arthropoda,Thecostraca,76,41
+1,1117,T54PL,"Tetraclita squamosa rubescens Darwin, 1854",Arthropoda,Thecostraca,34,21
+1,980,CJ94,"Amathia verticillata (delle Chiaje, 1822)",Bryozoa,Gymnolaemata,86,66
+1,1102,RXHB,"Cauloramphus spiniferum (Johnston, 1832)",Bryozoa,Gymnolaemata,79,45
+1,1141,XRGQ,"Conopeum reticulum (Linnaeus, 1767)",Bryozoa,Gymnolaemata,25,15
+1,495,6JC6P,"Flustrellidra corniculata (Smitt, 1872)",Bryozoa,Gymnolaemata,369,265
+1,513,6NDZQ,"Jellyella tuberculata (Bosc, 1802)",Bryozoa,Gymnolaemata,534,304
+1,177,3ZNJY,"Membranipora membranacea (Linnaeus, 1767)",Bryozoa,Gymnolaemata,541,311
+1,184,4347D,"Microporella californica Busk, 1856",Bryozoa,Gymnolaemata,116,72
+1,1100,RVK37,"Parasmittina collifera (Robertson, 1908)",Bryozoa,Gymnolaemata,87,54
+1,603,78VRP,"Rhynchozoon tumulosum (Hincks, 1883)",Bryozoa,Gymnolaemata,102,54
+1,321,4VCFN,"Schizoporella unicornis (Johnston in Wood, 1844)",Bryozoa,Gymnolaemata,99,51
+1,1118,TB4RM,"Stephanosella biaperta (Michelin, 1848)",Bryozoa,Gymnolaemata,37,29
+1,348,5547F,"Tegella horrida (Hincks, 1880)",Bryozoa,Gymnolaemata,42,24
+0,551,6TVNM,"Pectinatella magnifica (Leidy, 1851)",Bryozoa,Phylactolaemata,247,243
+1,440,67NPZ,"Aplidium californicum (Ritter & Forsyth, 1917)",Chordata,Ascidiacea,799,489
+1,1000,G8XF,"Archidistoma psammion (Ritter & Forsyth, 1917)",Chordata,Ascidiacea,54,39
+1,444,67S8S,"Ascidia ceratodes (Huntsman, 1912)",Chordata,Ascidiacea,68,35
+1,1014,H63Z,"Ascidiella aspersa (Müller, 1776)",Chordata,Ascidiacea,49,33
+1,1050,MPMK,"Botrylloides diegensis Ritter & Forsyth, 1917",Chordata,Ascidiacea,424,273
+1,1130,VFD7,"Ciona robusta Hoshino & Tokioka, 1967",Chordata,Ascidiacea,125,104
+1,407,5Z9G3,"Clavelina huntsmani Van Name, 1931",Chordata,Ascidiacea,621,333
+1,29,36N6W,"Diplosoma listerianum (Milne Edwards, 1841)",Chordata,Ascidiacea,179,93
+1,578,73CV6,"Metandrocarpa dura (Ritter, 1896)",Chordata,Ascidiacea,383,285
+1,556,6VSCN,"Polyclinum planum (Ritter & Forsyth, 1917)",Chordata,Ascidiacea,130,71
+1,695,7PXNG,"Rhopalaea Philippi, 1843",Chordata,Ascidiacea,39,24
+1,340,538B5,"Styela plicata (Lesueur, 1823)",Chordata,Ascidiacea,317,179
+1,439,67FKC,"Anthopleura dowii Verrill, 1869",Cnidaria,Anthozoa,49,47
+1,438,67FKB,"Anthopleura elegantissima (Brandt, 1835)",Cnidaria,Anthozoa,18305,11062
+1,1016,J3H5,"Astrangia haimei Verrill, 1866",Cnidaria,Anthozoa,246,151
+1,1018,JRGG,"Aulactinia incubans Dunn, Chia & Levine, 1980",Cnidaria,Anthozoa,82,58
+1,401,5X5Q3,"Bunodosoma californicum Carlgren, 1951",Cnidaria,Anthozoa,80,41
+1,22,358BY,"Diadumene franciscana Hand, 1956",Cnidaria,Anthozoa,117,60
+1,23,358C6,"Diadumene lineata (Verrill, 1869)",Cnidaria,Anthozoa,407,332
+1,480,6FPTG,"Epiactis prolifera Verrill, 1869",Cnidaria,Anthozoa,2088,1093
+1,67,3DJK6,"Exaiptasia diaphana (Rapp, 1829)",Cnidaria,Anthozoa,328,206
+1,84,3JQQF,"Harenactis attenuata Torrey, 1902",Cnidaria,Anthozoa,236,163
+1,181,42J2K,"Metridium senile (Linnaeus, 1761)",Cnidaria,Anthozoa,1143,608
+1,247,4BQFT,"Pachycerianthus torreyi Arai, 1965",Cnidaria,Anthozoa,110,75
+1,253,4C884,"Palythoa mutuki (Haddon & Shackleton, 1891)",Cnidaria,Anthozoa,49,41
+1,269,4HDJF,"Phymactis papillosa (Lesson, 1830)",Cnidaria,Anthozoa,30,22
+1,561,6W7XT,"Porites panamensis Verrill, 1866",Cnidaria,Anthozoa,30,22
+1,566,6Y9VZ,"Scolanthus scamiti Daly & Ljubenkov, 2008",Cnidaria,Anthozoa,35,20
+1,1031,L2VZN,"Urtibrina rimicola Sanamyan, Sanamyan, McDaniel, Kukhlevskiy & Bocharova, 2025",Cnidaria,Anthozoa,858,538
+1,621,7F3N2,"Urticina grebelnyi Sanamyan & Sanamyan, 2006",Cnidaria,Anthozoa,3056,1852
+1,384,5CWV8,"Zaolutus actius Hand, 1955",Cnidaria,Anthozoa,242,133
+1,423,64Z7K,"Aequorea victoria (Murbach & Shearer, 1902)",Cnidaria,Hydrozoa,1354,865
+1,640,7NQZN,"Bougainvillia Lesson, 1830",Cnidaria,Hydrozoa,32,18
+1,1145,YQHW,"Corymorpha palma Torrey, 1902",Cnidaria,Hydrozoa,141,99
+1,40,38QWY,"Ectopleura crocea (Agassiz, 1862)",Cnidaria,Hydrozoa,90,50
+1,53,3BSNP,"Eucheilota bakeri (Torrey, 1904)",Cnidaria,Hydrozoa,359,252
+1,79,3GWWV,"Gonionemus vertens A. Agassiz, 1862",Cnidaria,Hydrozoa,26,17
+1,555,6VGGP,"Physalia utriculus (Gmelin, 1788)",Cnidaria,Hydrozoa,219,150
+1,689,7PTKZ,"Polyorchis A. Agassiz, 1862",Cnidaria,Hydrozoa,50,30
+1,559,6W5TK,"Polyorchis penicillatus (Eschscholtz, 1829)",Cnidaria,Hydrozoa,489,298
+1,289,4LZFQ,"Porpita porpita (Linnaeus, 1758)",Cnidaria,Hydrozoa,65,42
+1,322,4VYMJ,"Scrippsia pacifica Torrey, 1909",Cnidaria,Hydrozoa,319,198
+1,624,7FL3G,"Velella velella (Linnaeus, 1758)",Cnidaria,Hydrozoa,11190,7495
+1,311,4RS8J,"Renilla koellikeri Pfeffer, 1886",Cnidaria,Octocorallia,75,54
+1,1019,JTCR,"Aurelia coerulea von Lendenfeld, 1884",Cnidaria,Scyphozoa,94,63
+1,1020,JTCZ,"Aurelia labiata Chamisso & Eysenhardt, 1821",Cnidaria,Scyphozoa,2029,1328
+1,406,5YL26,"Chrysaora fuscescens Brandt, 1835",Cnidaria,Scyphozoa,3084,1589
+1,5,32NBR,"Cyanea ferruginea Eschscholtz, 1829",Cnidaria,Scyphozoa,1895,1267
+1,263,4FK64,"Phacellophora camtschatica Brandt, 1835",Cnidaria,Scyphozoa,3051,1723
+1,596,77FKP,"Phyllorhiza punctata von Lendenfeld, 1884",Cnidaria,Scyphozoa,33,19
+1,966,BV9M9,"Haliclystus sanjuanensis Mills, Westlake, Hirano & Miranda, 2023",Cnidaria,Staurozoa,258,141
+1,471,6CSW3,"Dicyemennea abelis McConnaughey, 1949",Dicyemida,Rhombozoa,48,41
+1,28,35W24,"Dicyemennea californica McConnaughey, 1941",Dicyemida,Rhombozoa,44,29
+1,66,3DH4N,"Evasterias troschelii (Stimpson, 1862)",Echinodermata,Asteroidea,7206,4324
+1,520,6PDVM,"Leptasterias aequalis (Stimpson, 1862)",Echinodermata,Asteroidea,133,77
+1,331,4Y55F,"Solaster endeca (Linnaeus, 1771)",Echinodermata,Asteroidea,39,24
+1,11,34M2G,"Dendraster excentricus (Eschscholtz, 1831)",Echinodermata,Echinoidea,8305,5545
+1,850,84XCW,"Caudina arenicola (Stimpson, 1857)",Echinodermata,Holothuroidea,454,291
+1,506,6LZ6D,"Holothuria (Selenkothuria) lubrica Selenka, 1867",Echinodermata,Holothuroidea,119,60
+1,541,6SMZQ,"Ophiactis savignyi (Müller & Troschel, 1842)",Echinodermata,Ophiuroidea,159,95
+1,823,7W5PK,"Ophioderma panamense Lütken, 1859",Echinodermata,Ophiuroidea,1097,679
+1,241,49YQP,"Ophionereis annulata (Le Conte, 1851)",Echinodermata,Ophiuroidea,2288,1469
+1,242,49YQV,"Ophionereis diabloensis Hendler, 2002",Echinodermata,Ophiuroidea,362,205
+1,585,74PYQ,"Ophiothrix (Ophiothrix) spiculata Le Conte, 1851",Echinodermata,Ophiuroidea,3492,1781
+1,414,64G3N,"Acar bailyi Bartsch, 1931",Mollusca,Bivalvia,40,21
+1,891,92VJ,"Acar gradata (Broderip & G. B. Sowerby I, 1829)",Mollusca,Bivalvia,30,20
+1,424,655BJ,"Adula californiensis (R. A. Philippi, 1847)",Mollusca,Bivalvia,107,72
+1,419,64TB3,"Adula diegensis (Dall, 1911)",Mollusca,Bivalvia,71,39
+1,428,66C2P,"Americardia biangulata (Broderip & G. B. Sowerby I, 1829)",Mollusca,Bivalvia,77,47
+1,984,CRG5,"Ameritella modesta (P. P. Carpenter, 1864)",Mollusca,Bivalvia,63,39
+1,985,CS3H,"Amiantis callosa (Conrad, 1837)",Mollusca,Bivalvia,368,233
+1,430,66KCZ,"Anadara tuberculosa (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,35,20
+0,436,67675,"Anodonta californiensis I. Lea, 1852",Mollusca,Bivalvia,130,121
+0,434,6766G,"Anodonta kennerlyi I. Lea, 1860",Mollusca,Bivalvia,72,67
+0,435,6766M,"Anodonta nuttalliana I. Lea, 1838",Mollusca,Bivalvia,160,137
+0,391,5V5W5,"Anodonta oregonensis I. Lea, 1838",Mollusca,Bivalvia,92,90
+1,437,676JB,"Anomia peruviana A. d'Orbigny, 1846",Mollusca,Bivalvia,272,147
+1,997,G73Y,"Arca pacifica (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,31,20
+1,445,6829T,"Arcopsis solida (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,61,31
+1,446,6843B,"Arcuatula senhousia (W. H. Benson, 1842)",Mollusca,Bivalvia,470,389
+1,1004,GHCQ,"Argopecten ventricosus (G. B. Sowerby II, 1842)",Mollusca,Bivalvia,1660,1037
+1,1021,K3NT,"Axinactis delessertii (Reeve, 1843)",Mollusca,Bivalvia,30,20
+1,454,692BT,"Brachidontes adamsianus (Dunker, 1857)",Mollusca,Bivalvia,255,137
+1,456,697MV,"Callithaca tenerrima (P. P. Carpenter, 1857)",Mollusca,Bivalvia,125,89
+1,453,68ZBS,"Carditamera affinis (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,94,74
+1,1098,RJ6M,"Caryocorbula luteola (P. P. Carpenter, 1864)",Mollusca,Bivalvia,90,49
+1,1120,THP6,"Chama arcana F. R. Bernard, 1976",Mollusca,Bivalvia,586,403
+1,1121,THQ5,"Chama coralloides Reeve, 1846",Mollusca,Bivalvia,33,22
+1,643,7NSGY,"Chama Linnaeus, 1758",Mollusca,Bivalvia,34,19
+1,1122,THSD,"Chama pellucida Broderip, 1835",Mollusca,Bivalvia,150,99
+1,403,5Y5BX,"Chione undatella (G. B. Sowerby I, 1835)",Mollusca,Bivalvia,400,229
+1,402,5XTF2,"Chionista fluctifraga (G. B. Sowerby II, 1853)",Mollusca,Bivalvia,120,70
+1,405,5YCVS,"Choromytilus palliopunctatus (P. P. Carpenter, 1857)",Mollusca,Bivalvia,36,23
+1,1132,W65D,"Clinocardium nuttallii (Conrad, 1837)",Mollusca,Bivalvia,2818,1696
+0,410,5ZYZK,"Corbicula fluminea (O. F. Müller, 1774)",Mollusca,Bivalvia,2142,2032
+1,1147,Z6Z3,"Crassostrea columbiensis (Hanley, 1846)",Mollusca,Bivalvia,58,51
+1,2,32DZV,"Cumingia californica Conrad, 1837",Mollusca,Bivalvia,219,161
+1,468,6C243,"Cumingia lamellosa G. B. Sowerby I, 1833",Mollusca,Bivalvia,34,21
+1,9,3428T,"Dallocardia quadragenaria (Conrad, 1837)",Mollusca,Bivalvia,436,253
+1,33,379P8,"Donax californicus Conrad, 1837",Mollusca,Bivalvia,147,83
+1,34,379QL,"Donax gouldii Dall, 1921",Mollusca,Bivalvia,3056,1990
+1,475,6DK9K,"Dosinia ponderosa (J. E. Gray, 1838)",Mollusca,Bivalvia,35,20
+1,38,37M64,"Dreissena bugensis Andrusov, 1897",Mollusca,Bivalvia,29,29
+1,48,39YQD,"Entodesma navicula (A. Adams & Reeve, 1850)",Mollusca,Bivalvia,184,94
+1,484,6G4QX,"Epilucina californica (Conrad, 1837)",Mollusca,Bivalvia,339,173
+0,57,3C787,"Euglesa casertana (Poli, 1791)",Mollusca,Bivalvia,165,159
+1,65,3DFB4,"Euvola vogdesi (R. Arnold, 1906)",Mollusca,Bivalvia,31,16
+1,70,3FB75,"Gari californica (Conrad, 1849)",Mollusca,Bivalvia,471,255
+1,74,3FY8B,"Geukensia demissa (Dillwyn, 1817)",Mollusca,Bivalvia,693,543
+1,75,3G5FZ,"Glans carpenteri (E. Lamy, 1922)",Mollusca,Bivalvia,271,166
+1,76,3G5GB,"Glans subquadrata (P. P. Carpenter, 1864)",Mollusca,Bivalvia,35,22
+1,498,6KHMB,"Globivenus fordii (L. G. Yates, 1890)",Mollusca,Bivalvia,132,84
+0,78,3GVSV,"Gonidea angulata (I. Lea, 1838)",Mollusca,Bivalvia,118,104
+1,80,3HC7S,"Gregariella chenui (Récluz, 1842)",Mollusca,Bivalvia,50,36
+1,98,3L8KG,"Heteroclidus punctatus (Conrad, 1837)",Mollusca,Bivalvia,112,78
+1,99,3L99Q,"Heterodonax pacificus (Conrad, 1837)",Mollusca,Bivalvia,38,24
+1,107,3PG5W,"Iliochione subrugosa (W. Wood, 1828)",Mollusca,Bivalvia,34,24
+1,118,3R4YB,"Kellia laperousii (Deshayes, 1839)",Mollusca,Bivalvia,81,48
+1,515,6NJFV,"Kellia suborbicularis (Montagu, 1803)",Mollusca,Bivalvia,235,140
+1,121,3RVBQ,"Laevicardium elatum (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,55,30
+1,122,3RVC9,"Laevicardium substriatum (Conrad, 1837)",Mollusca,Bivalvia,278,175
+1,125,3SBTW,"Lasaea subviridis Dall, 1899",Mollusca,Bivalvia,101,55
+1,127,3T2GR,"Leiosolenus plumula (Hanley, 1843)",Mollusca,Bivalvia,132,85
+1,131,3TG52,"Leporimetis obesa (Deshayes, 1855)",Mollusca,Bivalvia,215,148
+1,572,727C3,"Leukoma grata (Say, 1831)",Mollusca,Bivalvia,35,19
+1,527,6Q7C4,"Leukoma laciniata (P. P. Carpenter, 1864)",Mollusca,Bivalvia,146,91
+1,522,6PVBQ,"Leukoma staminea (Conrad, 1837)",Mollusca,Bivalvia,2067,1238
+1,525,6PZF5,"Limaria hemphilli (Hertlein & A. M. Strong, 1946)",Mollusca,Bivalvia,203,132
+1,153,3WCGY,"Lucinisca nuttalli (Conrad, 1837)",Mollusca,Bivalvia,146,92
+1,154,3WTQ6,"Lyrodus pedicellatus (Quatrefages, 1849)",Mollusca,Bivalvia,53,31
+1,155,3WZT8,"Macoma (Rexithaerus) secta (Conrad, 1837)",Mollusca,Bivalvia,87,49
+1,156,3WZWC,"Macoma nasuta (Conrad, 1837)",Mollusca,Bivalvia,1110,559
+1,158,3XDKY,"Mactromeris catilliformis (Conrad, 1867)",Mollusca,Bivalvia,170,113
+1,159,3XDKZ,"Mactromeris hemphillii (Dall, 1894)",Mollusca,Bivalvia,52,34
+1,160,3XDL6,"Mactrotoma californica (Conrad, 1837)",Mollusca,Bivalvia,77,41
+1,161,3XGCW,"Magallana gigas (Thunberg, 1793)",Mollusca,Bivalvia,738,556
+0,163,3Y44D,"Margaritifera falcata (A. A. Gould, 1850)",Mollusca,Bivalvia,664,648
+0,164,3Y44N,"Margaritifera margaritifera (Linnaeus, 1758)",Mollusca,Bivalvia,29,29
+1,171,3YWFY,"Megangulus bodegensis (Hinds, 1845)",Mollusca,Bivalvia,358,231
+1,172,3YWR5,"Megapitaria squalida (G. B. Sowerby I, 1835)",Mollusca,Bivalvia,53,28
+1,978,CH7TC,"Mexicardia procera (G. B. Sowerby I, 1833)",Mollusca,Bivalvia,41,25
+1,186,43DJ4,"Milneria kelseyi Dall, 1916",Mollusca,Bivalvia,65,34
+1,187,43DJ5,"Milneria minima (Dall, 1871)",Mollusca,Bivalvia,40,21
+1,190,43TSC,"Modiolus modiolus (Linnaeus, 1758)",Mollusca,Bivalvia,68,39
+1,191,43TT8,"Modiolus rectus Conrad, 1837",Mollusca,Bivalvia,223,127
+0,538,6RQPB,"Musculium (Musculium) lacustre (O. F. Müller, 1774)",Mollusca,Bivalvia,27,27
+1,767,7S8TT,"Mytella strigata (Hanley, 1843)",Mollusca,Bivalvia,64,62
+1,205,45GFC,"Mytilisepta bifurcata (Conrad, 1837)",Mollusca,Bivalvia,332,221
+1,206,45GKH,"Mytilus californianus Conrad, 1837",Mollusca,Bivalvia,20224,11538
+1,207,45GSC,"Mytilus trossulus A. A. Gould, 1850",Mollusca,Bivalvia,290,183
+1,211,46KPG,"Neolepton subtrigonum (P. P. Carpenter, 1857)",Mollusca,Bivalvia,83,59
+1,214,4795J,"Netastoma rostratum (Valenciennes, 1846)",Mollusca,Bivalvia,55,28
+1,223,484KW,"Nutricola tantilla (A. A. Gould, 1853)",Mollusca,Bivalvia,171,131
+1,224,484M2,"Nuttallia nuttallii (Conrad, 1837)",Mollusca,Bivalvia,423,262
+1,225,484M3,"Nuttallia obscurata (Reeve, 1857)",Mollusca,Bivalvia,950,611
+1,546,6TCX2,"Ostrea lurida P. P. Carpenter, 1864",Mollusca,Bivalvia,1177,884
+1,254,4CG5S,"Panopea generosa A. A. Gould, 1850",Mollusca,Bivalvia,310,203
+1,259,4D8CR,"Parapholas californica (Conrad, 1837)",Mollusca,Bivalvia,768,410
+1,590,76JYD,"Penitella penita (Conrad, 1837)",Mollusca,Bivalvia,417,228
+1,261,4F3FV,"Periploma planiusculum G. B. Sowerby I, 1834",Mollusca,Bivalvia,178,128
+1,262,4FDPT,"Petricola californiensis Pilsbry & H. N. Lowe, 1932",Mollusca,Bivalvia,94,65
+1,554,6V72K,"Petricola carditoides (Conrad, 1837)",Mollusca,Bivalvia,720,403
+1,598,77P5C,"Platyodon cancellatus (Conrad, 1837)",Mollusca,Bivalvia,593,392
+1,282,4KQNV,"Pododesmus macrochisma (Deshayes, 1839)",Mollusca,Bivalvia,1074,597
+1,940,BDXZF,"Protothaca Dall, 1902",Mollusca,Bivalvia,42,23
+1,954,BLLJB,"Protothaca grata (Say, 1831)",Mollusca,Bivalvia,137,132
+1,292,4NDB9,"Psammotreta (Leporimetis) obesa (Deshayes, 1855)",Mollusca,Bivalvia,60,34
+1,293,4NQDN,"Pseudocadella nuculoides (Reeve, 1854)",Mollusca,Bivalvia,45,31
+1,296,4NT5B,"Pseudochama exogyra (Conrad, 1837)",Mollusca,Bivalvia,601,378
+1,312,4RV5K,"Rexithaerus indentata (P. P. Carpenter, 1864)",Mollusca,Bivalvia,81,56
+1,313,4RV5L,"Rexithaerus sectus (Conrad, 1837)",Mollusca,Bivalvia,579,379
+1,317,4TMNJ,"Ruditapes philippinarum (A. Adams & Reeve, 1850)",Mollusca,Bivalvia,1351,997
+1,604,78YJ6,"Saccostrea palmula (P. P. Carpenter, 1857)",Mollusca,Bivalvia,70,59
+1,605,79QRG,"Saxidomus gigantea (Deshayes, 1839)",Mollusca,Bivalvia,492,268
+1,606,79R3G,"Saxidomus nuttalli Conrad, 1837",Mollusca,Bivalvia,658,425
+1,323,4WFTX,"Semele decisa (Conrad, 1837)",Mollusca,Bivalvia,502,325
+1,324,4WFVZ,"Semele rubropicta Dall, 1871",Mollusca,Bivalvia,250,141
+1,325,4WFW3,"Semele rupicola Dall, 1915",Mollusca,Bivalvia,106,81
+1,679,7PGJ5,"Semele Schumacher, 1817",Mollusca,Bivalvia,33,19
+1,326,4WR9K,"Septifer bifurcatus (Conrad, 1837)",Mollusca,Bivalvia,42,26
+1,327,4XDM7,"Siliqua patula (G. Dixon, 1789)",Mollusca,Bivalvia,1355,920
+1,328,4XFQX,"Simomactra falcata (A. A. Gould, 1850)",Mollusca,Bivalvia,47,25
+1,329,4XFQY,"Simomactra planulata (Conrad, 1837)",Mollusca,Bivalvia,40,26
+1,1131,VKKS9,"Solen rosaceus P. P. Carpenter, 1864",Mollusca,Bivalvia,67,37
+0,332,4YPLN,"Sphaerium patella (A. A. Gould, 1850)",Mollusca,Bivalvia,78,76
+1,335,4YV77,"Sphenia fragilis (H. Adams & A. Adams, 1854)",Mollusca,Bivalvia,44,27
+1,571,6ZWZJ,"Striostrea prismatica (J. E. Gray, 1825)",Mollusca,Bivalvia,36,19
+1,345,54JP6,"Tagelus californianus (Conrad, 1837)",Mollusca,Bivalvia,519,295
+1,346,54JPJ,"Tagelus subteres (Conrad, 1837)",Mollusca,Bivalvia,139,95
+1,355,55F29,"Teredo navalis Linnaeus, 1758",Mollusca,Bivalvia,39,21
+1,364,579HJ,"Tivela stultorum (Mawe, 1823)",Mollusca,Bivalvia,3047,1919
+1,613,7CPHW,"Tresus nuttallii (Conrad, 1837)",Mollusca,Bivalvia,728,411
+1,383,5CS27,"Yoldia cooperii Gabb, 1865",Mollusca,Bivalvia,143,108
+1,385,5D2B7,"Zemysina orbella (A. A. Gould, 1851)",Mollusca,Bivalvia,307,195
+1,386,5D5QT,"Zirfaea pilsbryi H. N. Lowe, 1931",Mollusca,Bivalvia,943,494
+1,443,67R4L,"Argonauta argo Linnaeus, 1758",Mollusca,Cephalopoda,42,28
+1,47,39Y4T,"Enteroctopus dofleini (Wülker, 1910)",Mollusca,Cephalopoda,477,248
+1,229,48KK7,"Octopus bimaculatus A. E. Verrill, 1883",Mollusca,Cephalopoda,261,142
+1,230,48KK8,"Octopus bimaculoides Pickford & McConnaughey, 1949",Mollusca,Cephalopoda,2829,2006
+1,540,6SFPY,"Octopus micropyrsus S. S. Berry, 1953",Mollusca,Cephalopoda,119,60
+1,875,8T39,"Acanthais triangularis (Blainville, 1832)",Mollusca,Gastropoda,28,22
+1,876,8TPR,"Acanthina lugubris (G. B. Sowerby I, 1822)",Mollusca,Gastropoda,46,27
+1,877,8TPX,"Acanthina punctulata (J. E. Gray, 1835)",Mollusca,Gastropoda,36,21
+1,878,8TPY,"Acanthina spirata (Blainville, 1832)",Mollusca,Gastropoda,119,66
+1,879,8TS6,"Acanthinucella paucilirata (Stearns, 1871)",Mollusca,Gastropoda,123,65
+1,880,8TS8,"Acanthinucella spirata (Blainville, 1832)",Mollusca,Gastropoda,1248,717
+1,887,8XHB,"Acanthodoris atrogriseata O'Donoghue, 1927",Mollusca,Gastropoda,63,42
+1,888,8XHH,"Acanthodoris hudsoni MacFarland, 1905",Mollusca,Gastropoda,357,201
+1,889,8XHM,"Acanthodoris nanaimoensis O'Donoghue, 1921",Mollusca,Gastropoda,1805,1100
+1,418,64JZX,"Acmaea (Collisella) digitalis (Rathke, 1833)",Mollusca,Gastropoda,107,59
+1,416,64JNX,"Acmaea (Collisella) pelta (Rathke, 1833)",Mollusca,Gastropoda,81,49
+1,417,64JNZ,"Acmaea (Collisella) persona Rathke, 1833",Mollusca,Gastropoda,74,43
+1,630,7NMSC,"Acmaea Eschscholtz, 1833",Mollusca,Gastropoda,161,103
+1,1042,M5B5H,"Acmaea fenestrata Reeve, 1855",Mollusca,Gastropoda,29,23
+1,900,9DDV,"Acmaea limatula (P. P. Carpenter, 1864)",Mollusca,Gastropoda,54,30
+1,908,9SGL,"Acteocina inculta (A. A. Gould, 1855)",Mollusca,Gastropoda,156,93
+1,425,65922,"Aegires albopunctatus MacFarland, 1905",Mollusca,Gastropoda,3795,2559
+1,631,7NMZK,"Aeolidia Cuvier, 1797",Mollusca,Gastropoda,573,364
+1,420,64XYT,"Aeolidia papillosa (Linnaeus, 1761)",Mollusca,Gastropoda,318,161
+1,421,64XYV,"Aeolidiella chromosoma (T. D. A. Cockerell & Eliot, 1905)",Mollusca,Gastropoda,72,62
+1,422,64XYX,"Aeolidiella indica Bergh, 1888",Mollusca,Gastropoda,98,96
+1,426,65BRB,"Aesopus chrysalloideus (P. P. Carpenter, 1864)",Mollusca,Gastropoda,28,17
+1,982,CN988,"Agathistoma eiseni (E. K. Jordan, 1936)",Mollusca,Gastropoda,1986,1450
+1,389,5TRCD,"Aglaja ocelligera (Bergh, 1894)",Mollusca,Gastropoda,219,116
+1,953,BLD4,"Alderia willowi Krug, Ellingson, R. Burton & Á. Valdés, 2007",Mollusca,Gastropoda,62,51
+1,963,BRWT,"Alia carinata (Hinds, 1844)",Mollusca,Gastropoda,1482,949
+0,694,7PX9H,"Allogona townsendiana (I. Lea, 1838)",Mollusca,Gastropoda,1395,1369
+1,974,CBP9,"Alvania purpurea Dall, 1871",Mollusca,Gastropoda,35,21
+0,901,9FZHZ,"Ambigolimax parvipenis Hutchinson, Reise & Schlitt, 2022",Mollusca,Gastropoda,84,84
+0,634,7NP4P,"Ambigolimax Pollonera, 1887",Mollusca,Gastropoda,1603,1556
+0,981,CL6W,"Ambigolimax valentianus (A. Férussac, 1822)",Mollusca,Gastropoda,145,145
+0,872,8R66R,"Ammonitella yatesii J. G. Cooper, 1869",Mollusca,Gastropoda,31,31
+1,988,D66Q,"Amphithalamus inclusus P. P. Carpenter, 1864",Mollusca,Gastropoda,53,27
+0,698,7Q3V9,"Ancotrema hybridum (Ancey, 1888)",Mollusca,Gastropoda,32,32
+0,699,7Q3VB,"Ancotrema sportella (A. A. Gould, 1846)",Mollusca,Gastropoda,387,369
+0,809,7TQCP,"Ancotrema sportella sportella (A. A. Gould, 1846)",Mollusca,Gastropoda,156,148
+1,991,DNC6,"Ancula gibbosa (Risso, 1818)",Mollusca,Gastropoda,449,330
+1,992,DNC8,"Ancula lentiginosa Farmer, 1964",Mollusca,Gastropoda,417,312
+1,431,66NJ4,"Ancula pacifica MacFarland, 1905",Mollusca,Gastropoda,918,603
+1,390,5V2LZ,"Angustassiminea californica (Tryon, 1865)",Mollusca,Gastropoda,47,44
+1,433,66Y3W,"Anteaeolidiella chromosoma (T. D. A. Cockerell & Eliot, 1905)",Mollusca,Gastropoda,910,604
+1,432,66Y2Y,"Anteaeolidiella oliviae (MacFarland, 1966)",Mollusca,Gastropoda,2018,1073
+1,700,7Q5KM,"Antiopella barbarensis (J. G. Cooper, 1863)",Mollusca,Gastropoda,2053,1333
+1,701,7Q5KR,"Antiopella fusca (O'Donoghue, 1924)",Mollusca,Gastropoda,2107,1124
+1,962,BPNVD,"Antisabia panamensis (C. B. Adams, 1852)",Mollusca,Gastropoda,145,108
+1,993,F8H5,"Apata pricei (MacFarland, 1966)",Mollusca,Gastropoda,894,593
+1,635,7NPDX,"Aplysia Linnaeus, 1767",Mollusca,Gastropoda,40,27
+1,393,5VNTP,"Aplysiopsis enteromorphae (Eliot, 1905)",Mollusca,Gastropoda,949,642
+1,702,7Q78P,"Archierato columbella (Menke, 1847)",Mollusca,Gastropoda,67,50
+0,933,B82L2,"Ariolimax brachyphallus Mead, 1943",Mollusca,Gastropoda,376,375
+0,703,7Q7ZK,"Ariolimax buttoni (Pilsbry & Vanatta, 1896)",Mollusca,Gastropoda,12070,11816
+0,871,8P3X4,"Ariolimax californicus J. G. Cooper, 1872",Mollusca,Gastropoda,3654,3644
+0,704,7Q7ZR,"Ariolimax columbianus (A. A. Gould, 1851)",Mollusca,Gastropoda,26344,25561
+0,705,7Q7ZT,"Ariolimax dolichophallus Mead, 1943",Mollusca,Gastropoda,5223,5187
+0,636,7NPPJ,"Ariolimax Mörch, 1859",Mollusca,Gastropoda,998,944
+0,706,7Q823,"Ariolimax stramineus Hemphill, 1891",Mollusca,Gastropoda,953,941
+0,938,BDT2F,"Arion (Arion) A. Férussac, 1819",Mollusca,Gastropoda,1106,1064
+0,942,BFCYP,"Arion (Kobeltia) Seibert, 1873",Mollusca,Gastropoda,35,32
+0,943,BFCYX,"Arion (Mesarion) P. Hesse, 1926",Mollusca,Gastropoda,42,42
+0,637,7NPPK,"Arion A. Férussac, 1819",Mollusca,Gastropoda,34,33
+0,394,5W2WT,"Arion ater (Linnaeus, 1758)",Mollusca,Gastropoda,4559,4408
+0,442,67QX5,"Arion distinctus Mabille, 1868",Mollusca,Gastropoda,31,30
+0,1005,GMV6,"Arion hortensis A. Férussac, 1819",Mollusca,Gastropoda,235,230
+0,1006,GMV7,"Arion intermedius Normand, 1852",Mollusca,Gastropoda,147,144
+0,1007,GMVP,"Arion subfuscus (Draparnaud, 1805)",Mollusca,Gastropoda,196,194
+1,1012,GSRT,"Armina californica (J. G. Cooper, 1863)",Mollusca,Gastropoda,918,688
+1,447,686XW,"Assiminea californica (Tryon, 1865)",Mollusca,Gastropoda,51,36
+1,1015,HVZK,"Astraea undosa (W. Wood, 1828)",Mollusca,Gastropoda,40,24
+1,1017,J7VQ,"Atagema alba (O'Donoghue, 1927)",Mollusca,Gastropoda,166,119
+1,448,689LL,"Austraeolis stearnsi (T. D. A. Cockerell, 1901)",Mollusca,Gastropoda,807,611
+0,1046,MM57S,"Bakerilymnaea bulimoides (Lea, 1841)",Mollusca,Gastropoda,32,22
+0,946,BG83C,"Bakerilymnaea Weyrauch, 1964",Mollusca,Gastropoda,30,21
+1,1022,KRFP,"Barleeia californica Bartsch, 1920",Mollusca,Gastropoda,99,68
+1,1023,KRH4,"Barleeia subtenuis P. P. Carpenter, 1864",Mollusca,Gastropoda,95,49
+1,638,7NQG9,"Barleeia W. Clark, 1853",Mollusca,Gastropoda,53,34
+1,1026,KYS5,"Batillaria attramentaria (G. B. Sowerby II, 1855)",Mollusca,Gastropoda,431,370
+1,969,C4MQ6,"Bermudella angelensis (Lance, 1966)",Mollusca,Gastropoda,677,390
+1,1036,LMN6,"Berthella stellata (Risso, 1826)",Mollusca,Gastropoda,110,105
+1,1040,LX3CM,"Berthellina engeli (Gardiner, 1936)",Mollusca,Gastropoda,39,21
+1,1037,LMNK,"Berthellina ilisima Ev. Marcus & Er. Marcus, 1967",Mollusca,Gastropoda,56,36
+0,450,68KM3,"Binneya guadalupensis Pilsbry, 1927",Mollusca,Gastropoda,28,25
+0,396,5WKLQ,"Binneya notabilis J. G. Cooper, 1863",Mollusca,Gastropoda,25,15
+1,1041,LXVW,"Bittium (Stylidium) eschrichtii (Middendorff, 1849)",Mollusca,Gastropoda,31,19
+0,397,5WLLD,"Boettgerilla pallens Simroth, 1912",Mollusca,Gastropoda,44,43
+1,639,7NQWM,"Boonea R. Robertson, 1978",Mollusca,Gastropoda,103,74
+1,1047,MMG2,"Bostrycapulus aculeatus (Gmelin, 1791)",Mollusca,Gastropoda,47,34
+1,1063,NTT4,"Bulla gouldiana Pilsbry, 1895",Mollusca,Gastropoda,1230,934
+1,1064,NXCY,"Burchia semiinflata (U. S. Grant & Gale, 1931)",Mollusca,Gastropoda,34,20
+1,1065,NYSQ,"Busycotypus canaliculatus (Linnaeus, 1758)",Mollusca,Gastropoda,167,86
+1,1068,P7BP,"Cadlina flavomaculata MacFarland, 1905",Mollusca,Gastropoda,1786,991
+1,710,7QHWB,"Cadlina jannanicholsae Korshunova, Fletcher, Picton, Lundin, Kashio, N. Sanamyan, K. Sanamyan, Padula, Schrödl & Martynov, 2020",Mollusca,Gastropoda,54,31
+1,398,5WTBR,"Cadlina sparsa (Odhner, 1922)",Mollusca,Gastropoda,639,367
+1,641,7NRGB,"Caecum J. Fleming, 1813",Mollusca,Gastropoda,26,19
+1,455,69569,"Caecum orcutti Dall, 1885",Mollusca,Gastropoda,97,57
+1,928,B4N6T,"Caesia fossata (A. A. Gould, 1850)",Mollusca,Gastropoda,1046,690
+1,859,873M2,"Caesia perpinguis (Hinds, 1844)",Mollusca,Gastropoda,313,203
+1,1075,PK5L,"Californiconus californicus (Reeve, 1844)",Mollusca,Gastropoda,3152,1790
+1,711,7QJ5X,"Callianax biplicata (G. B. Sowerby I, 1825)",Mollusca,Gastropoda,3409,2158
+1,712,7QJ62,"Callianax strigata (Reeve, 1850)",Mollusca,Gastropoda,109,64
+1,1079,PRZ9,"Calliostoma supragranosum P. P. Carpenter, 1864",Mollusca,Gastropoda,540,280
+1,1087,Q76X,"Calyptraea mamillaris Broderip, 1834",Mollusca,Gastropoda,34,18
+0,452,68XV6,"Cantareus apertus (Born, 1778)",Mollusca,Gastropoda,1379,1326
+0,713,7QKRF,"Carychium occidentale Pilsbry, 1891",Mollusca,Gastropoda,84,81
+0,642,7NS7V,"Cepaea Held, 1838",Mollusca,Gastropoda,47,46
+0,1106,SBY4,"Cepaea nemoralis (Linnaeus, 1758)",Mollusca,Gastropoda,2007,1969
+1,971,C5D27,"Ceratodoris plana (Baba, 1960)",Mollusca,Gastropoda,56,48
+1,1110,SYK9,"Cerithidea californica (Haldeman, 1840)",Mollusca,Gastropoda,184,148
+1,1111,SYLV,"Cerithideopsis californica (Haldeman, 1840)",Mollusca,Gastropoda,2161,1528
+1,1112,SYQ6,"Cerithiopsidella cosmia (Bartsch, 1907)",Mollusca,Gastropoda,46,28
+1,1113,SYSQ,"Cerithiopsis carpenteri Bartsch, 1911",Mollusca,Gastropoda,52,33
+1,714,7QP3J,"Chromolaichma sedna (Ev. Marcus & Er. Marcus, 1967)",Mollusca,Gastropoda,51,32
+1,964,BSC7X,"Chrysallida helga (Dall & Bartsch, 1909)",Mollusca,Gastropoda,52,33
+0,1133,WN3S,"Cochlicella barbara (Linnaeus, 1758)",Mollusca,Gastropoda,224,223
+0,1134,WN3Z,"Cochlicopa lubrica (O. F. Müller, 1774)",Mollusca,Gastropoda,264,262
+1,1136,X4F7,"Collisella (Collisella) pelta (Rathke, 1833)",Mollusca,Gastropoda,79,45
+1,408,5ZLL7,"Collisella digitalis (Rathke, 1833)",Mollusca,Gastropoda,29,16
+1,990,DB3HD,Collisella limatula,Mollusca,Gastropoda,41,24
+1,1137,X4FC,"Collisella scabra (A. A. Gould, 1846)",Mollusca,Gastropoda,55,28
+1,1138,XBSD,"Columbella fuscata G. B. Sowerby I, 1832",Mollusca,Gastropoda,112,65
+1,1139,XBVS,"Columbella major G. B. Sowerby I, 1832",Mollusca,Gastropoda,39,21
+1,1140,XC4L,"Columbella strombiformis Lamarck, 1822",Mollusca,Gastropoda,31,20
+0,715,7QRZG,"Columella simplex (A. A. Gould, 1840)",Mollusca,Gastropoda,33,32
+1,409,5ZVV8,"Conualevia alba Collier & Farmer, 1964",Mollusca,Gastropoda,256,142
+1,1142,XX44,"Conus californicus Reeve, 1844",Mollusca,Gastropoda,320,180
+1,412,5ZZF8,"Corambe pacifica MacFarland & O'Donoghue, 1929",Mollusca,Gastropoda,949,496
+1,411,5ZZF2,"Corambe steinbergae (Lance, 1962)",Mollusca,Gastropoda,519,285
+0,1143,YG75,"Cornu aspersum (O. F. Müller, 1774)",Mollusca,Gastropoda,29062,28097
+1,1144,YGVV,"Corolla spectabilis Dall, 1871",Mollusca,Gastropoda,375,246
+1,1051,MTJK2,"Coryphella longicaudata O'Donoghue, 1922",Mollusca,Gastropoda,275,169
+1,457,6BFWJ,"Crepidula excavata (Broderip, 1834)",Mollusca,Gastropoda,116,71
+1,461,6BFXV,"Crepidula incurva (Broderip, 1834)",Mollusca,Gastropoda,29,16
+1,466,6BG9V,"Crepidula lessonii (Broderip, 1834)",Mollusca,Gastropoda,28,18
+1,462,6BFXY,"Crepidula naticarum M. B. Williamson, 1905",Mollusca,Gastropoda,30,16
+1,458,6BFXP,"Crepidula norrisiarum M. B. Williamson, 1905",Mollusca,Gastropoda,167,92
+1,465,6BG9P,"Crepidula nummaria A. A. Gould, 1846",Mollusca,Gastropoda,198,105
+1,459,6BFXQ,"Crepidula onyx G. B. Sowerby I, 1824",Mollusca,Gastropoda,650,416
+1,460,6BFXS,"Crepidula perforans Valenciennes, 1846",Mollusca,Gastropoda,121,66
+1,464,6BG9J,"Crepidula striolata Menke, 1851",Mollusca,Gastropoda,34,23
+1,463,6BFYJ,"Crepipatella lingulata (A. A. Gould, 1846)",Mollusca,Gastropoda,727,493
+1,1148,ZGC3,"Crimora coneja Er. Marcus, 1961",Mollusca,Gastropoda,150,112
+1,1149,ZRSH,"Crucibulum scutellatum (W. Wood, 1828)",Mollusca,Gastropoda,86,49
+1,1150,ZRSL,"Crucibulum spinosum (G. B. Sowerby I, 1824)",Mollusca,Gastropoda,539,339
+0,716,7QWBF,"Cryptomastix devia (A. A. Gould, 1846)",Mollusca,Gastropoda,38,36
+0,717,7QWBG,"Cryptomastix germana (A. A. Gould, 1851)",Mollusca,Gastropoda,157,154
+1,645,7NTZK,"Cumanotus Odhner, 1907",Mollusca,Gastropoda,87,51
+1,3,32MRD,"Cuthona hamanni Behrens, 1987",Mollusca,Gastropoda,305,227
+1,4,32MSC,"Cuthona perca (Er. Marcus, 1958)",Mollusca,Gastropoda,50,43
+1,469,6C2YG,"Cuthona phoenix Gosliner, 1981",Mollusca,Gastropoda,217,141
+1,467,6BWTL,"Cypraecassis coarctata (G. B. Sowerby I, 1825)",Mollusca,Gastropoda,36,23
+1,13,34Q6R,"Dendrodoris krebsii (Mörch, 1863)",Mollusca,Gastropoda,37,19
+1,14,34Q76,"Dendrodoris nigromaculata (T. D. A. Cockerell, 1905)",Mollusca,Gastropoda,43,22
+1,15,34QZD,"Dendronotus frondosus (Ascanius, 1774)",Mollusca,Gastropoda,44,23
+1,16,34QZF,"Dendronotus iris J. G. Cooper, 1863",Mollusca,Gastropoda,1918,1315
+1,17,34R23,"Dendronotus venustus MacFarland, 1966",Mollusca,Gastropoda,5021,2899
+0,18,34Y2F,"Deroceras invadens Reise, Hutchinson, Schunack & Schlitt, 2011",Mollusca,Gastropoda,125,124
+0,19,34Y2R,"Deroceras laeve (O. F. Müller, 1774)",Mollusca,Gastropoda,338,324
+0,646,7NVTB,"Deroceras Rafinesque, 1820",Mollusca,Gastropoda,52,52
+0,20,34Y3N,"Deroceras reticulatum (O. F. Müller, 1774)",Mollusca,Gastropoda,4162,4075
+1,24,35BGZ,"Diaphana californica Dall, 1919",Mollusca,Gastropoda,186,102
+1,25,35BXD,"Diaphoreolis flavovulta (MacFarland, 1966)",Mollusca,Gastropoda,616,313
+1,26,35C3G,"Diaphorodoris lirulatocauda Millen, 1985",Mollusca,Gastropoda,1115,618
+1,27,35GL4,"Diaulula odonoghuei (Steinberg, 1963)",Mollusca,Gastropoda,1683,1044
+1,647,7NWWT,"Diodora J. E. Gray, 1821",Mollusca,Gastropoda,28,17
+1,30,36RNG,"Dirona albolineata MacFarland, 1905",Mollusca,Gastropoda,2921,1681
+1,31,36RNJ,"Dirona pellucida Volodchenko, 1941",Mollusca,Gastropoda,113,80
+1,32,36RNK,"Dirona picta MacFarland, 1905",Mollusca,Gastropoda,2749,1531
+1,648,7NX4Y,"Discodoris Bergh, 1877",Mollusca,Gastropoda,52,48
+1,35,37D9M,"Doriopsilla albopunctata (J. G. Cooper, 1863)",Mollusca,Gastropoda,4035,2127
+1,472,6DGKT,"Doriopsilla gemela Gosliner, Schaefer & Millen, 1999",Mollusca,Gastropoda,1596,1055
+1,473,6DGMN,"Doriopsilla rowena Ev. Marcus & Er. Marcus, 1967",Mollusca,Gastropoda,277,166
+1,36,37DJB,"Doris odhneri (MacFarland, 1966)",Mollusca,Gastropoda,262,141
+1,858,8733S,"Doris tanya Ev. Marcus, 1971",Mollusca,Gastropoda,85,69
+1,37,37HG2,"Doto lancei Ev. Marcus & Er. Marcus, 1967",Mollusca,Gastropoda,271,187
+1,1025,KTV9W,"Doto urak Gosliner & Adayapalam, 2025",Mollusca,Gastropoda,941,555
+1,39,38JDH,"Echinolittorina aspera (R. A. Philippi, 1846)",Mollusca,Gastropoda,97,65
+1,476,6DVBG,"Echinolittorina modesta (R. A. Philippi, 1846)",Mollusca,Gastropoda,90,54
+1,906,9H52J,"Edmundsella bertschi (Gosliner & Kuzirian, 1990)",Mollusca,Gastropoda,37,28
+1,478,6F5YG,"Elysia diomedea (Bergh, 1894)",Mollusca,Gastropoda,73,53
+1,477,6F5XZ,"Elysia hedgpethi Er. Marcus, 1961",Mollusca,Gastropoda,1185,742
+1,45,39F6P,"Emarcusia morroensis Roller, 1972",Mollusca,Gastropoda,134,78
+0,655,7P3K6,"Epiphragmophora Doering, 1875",Mollusca,Gastropoda,88,70
+0,481,6FV83,"Epiphragmophora fidelis (J. E. Gray, 1834)",Mollusca,Gastropoda,27,25
+1,483,6FXKG,"Epitonium (Nitidiscala) cooperi A. M. Strong, 1930",Mollusca,Gastropoda,31,19
+1,482,6FXBM,"Epitonium hindsii (P. P. Carpenter, 1856)",Mollusca,Gastropoda,42,27
+1,1126,V5RQV,"Eubranchulus olivaceus (O'Donoghue, 1922)",Mollusca,Gastropoda,320,204
+1,1125,V5NSJ,"Eubranchulus rupium (Møller, 1842)",Mollusca,Gastropoda,547,375
+1,651,7NZ8F,"Eubranchus Forbes, 1838",Mollusca,Gastropoda,30,16
+0,54,3BXGX,"Euconulus fulvus (O. F. Müller, 1774)",Mollusca,Gastropoda,57,54
+0,652,7NZGD,"Euglandina Crosse & P. Fischer, 1870",Mollusca,Gastropoda,48,48
+1,59,3CBP7,"Eulithidium comptum (A. A. Gould, 1855)",Mollusca,Gastropoda,103,71
+1,718,7RB69,"Exaesopus subturritus (P. P. Carpenter, 1864)",Mollusca,Gastropoda,44,32
+1,489,6HR4D,"Felimare agassizii (Bergh, 1894)",Mollusca,Gastropoda,27,23
+0,488,6HQDF,"Ferrissia californica (Rowell, 1863)",Mollusca,Gastropoda,49,44
+1,491,6J3D8,"Fiona pinnata (Eschscholtz, 1831)",Mollusca,Gastropoda,120,78
+1,653,7P2K2,"Fissurella Bruguière, 1789",Mollusca,Gastropoda,33,17
+1,492,6J5ZD,"Fissurella volcano Reeve, 1849",Mollusca,Gastropoda,3163,1699
+0,654,7P2NF,"Fluminicola P. P. Carpenter, 1864",Mollusca,Gastropoda,79,73
+0,494,6JB45,"Fluminicola virens (I. Lea, 1838)",Mollusca,Gastropoda,188,175
+1,496,6K5TK,"Fusinus luteopictus (Dall, 1877)",Mollusca,Gastropoda,27,21
+0,69,3F2ZX,"Galba bulimoides (I. Lea, 1841)",Mollusca,Gastropoda,51,51
+1,71,3FDY7,"Gastropteron pacificum Bergh, 1894",Mollusca,Gastropoda,259,141
+1,929,B6GWV,"Gigahomalopoma carpenteri (Pilsbry, 1889)",Mollusca,Gastropoda,41,25
+1,719,7RFN9,"Glossaulax reclusiana (Deshayes, 1839)",Mollusca,Gastropoda,871,538
+0,720,7RFS2,"Glyptostoma gabrielense Pilsbry, 1938",Mollusca,Gastropoda,461,461
+0,721,7RFS3,"Glyptostoma newberryanum (W. G. Binney, 1858)",Mollusca,Gastropoda,529,499
+0,970,C4XS8,"Gonyodiscus rotundatus (O. F. Müller, 1774)",Mollusca,Gastropoda,525,518
+0,81,3HYM6,"Gyraulus parvus (Say, 1817)",Mollusca,Gastropoda,106,97
+1,501,6KWH5,"Hainotis sharonae (Willett, 1939)",Mollusca,Gastropoda,271,196
+1,722,7RH2P,"Haloa japonica (Pilsbry, 1895)",Mollusca,Gastropoda,319,282
+1,723,7RH6S,"Haminoea japonica Pilsbry, 1895",Mollusca,Gastropoda,29,15
+1,504,6LBSC,"Haminoea vesicula (A. A. Gould, 1855)",Mollusca,Gastropoda,538,378
+1,83,3JHPV,"Haminoea virescens (G. B. Sowerby II, 1833)",Mollusca,Gastropoda,973,622
+1,1029,KZRP6,"Haminoea W. Turton & Kingston, 1830",Mollusca,Gastropoda,45,24
+0,724,7RH9F,"Haplotrema alameda Pilsbry, 1930",Mollusca,Gastropoda,26,26
+0,658,7P4SF,"Haplotrema Ancey, 1881",Mollusca,Gastropoda,31,30
+0,725,7RH9G,"Haplotrema caelatum (Mazÿck, 1886)",Mollusca,Gastropoda,47,45
+0,726,7RH9L,"Haplotrema duranti (Newcomb, 1864)",Mollusca,Gastropoda,78,70
+0,727,7RH9N,"Haplotrema keepi (Hemphill, 1890)",Mollusca,Gastropoda,31,30
+0,728,7RH9Q,"Haplotrema minimum (Ancey, 1888)",Mollusca,Gastropoda,1789,1700
+0,977,CFXZY,"Haplotrema transfuga (Hemphill, 1892)",Mollusca,Gastropoda,31,26
+0,729,7RH9T,"Haplotrema vancouverense (I. Lea, 1838)",Mollusca,Gastropoda,2015,1942
+1,85,3JQSJ,"Harfordia harfordii (Stearns, 1871)",Mollusca,Gastropoda,50,39
+0,86,3JWNT,"Hawaiia minuscula (A. Binney, 1841)",Mollusca,Gastropoda,29,29
+0,659,7P4Y9,"Helisoma Swainson, 1840",Mollusca,Gastropoda,28,26
+0,88,3KDH4,"Helix (Cryptomphalus) aspersa O. F. Müller, 1774",Mollusca,Gastropoda,51,47
+0,1072,PCTC2,"Helminthoglypta allyniana (S. S. Berry, 1920)",Mollusca,Gastropoda,38,38
+0,660,7P4YP,"Helminthoglypta Ancey, 1887",Mollusca,Gastropoda,158,149
+0,730,7RN8Q,"Helminthoglypta arrosa (W. G. Binney, 1858)",Mollusca,Gastropoda,787,753
+0,812,7TW4S,"Helminthoglypta arrosa arrosa (W. G. Binney, 1858)",Mollusca,Gastropoda,52,48
+0,813,7TW4Z,"Helminthoglypta arrosa pomoensis A. G. Smith, 1938",Mollusca,Gastropoda,25,25
+0,731,7RN8S,"Helminthoglypta ayresiana (Newcomb, 1861)",Mollusca,Gastropoda,252,190
+0,732,7RN8T,"Helminthoglypta benitoensis H. N. Lowe, 1930",Mollusca,Gastropoda,72,72
+0,733,7RN8V,"Helminthoglypta berryi G D. Hanna, 1929",Mollusca,Gastropoda,35,35
+0,734,7RN8Y,"Helminthoglypta carpenteri (Newcomb, 1861)",Mollusca,Gastropoda,44,43
+0,735,7RN93,"Helminthoglypta contracostae (Pilsbry, 1895)",Mollusca,Gastropoda,78,73
+0,736,7RN96,"Helminthoglypta cypreophila (W. G. Binney & Bland, 1869)",Mollusca,Gastropoda,152,152
+0,737,7RN97,"Helminthoglypta diabloensis (J. G. Cooper, 1869)",Mollusca,Gastropoda,185,185
+0,738,7RN9C,"Helminthoglypta exarata (L. Pfeiffer, 1857)",Mollusca,Gastropoda,262,218
+0,814,7TW5C,"Helminthoglypta expansilabris mattolensis A. G. Smith, 1938",Mollusca,Gastropoda,25,21
+0,739,7RN9G,"Helminthoglypta fieldi Pilsbry, 1930",Mollusca,Gastropoda,53,27
+0,740,7RN9J,"Helminthoglypta fontiphila Gregg, 1931",Mollusca,Gastropoda,46,46
+0,741,7RN9N,"Helminthoglypta hertleini G D. Hanna & A. G. Smith, 1937",Mollusca,Gastropoda,33,33
+0,742,7RNB7,"Helminthoglypta nickliniana (I. Lea, 1838)",Mollusca,Gastropoda,1131,1016
+0,815,7TW5K,"Helminthoglypta nickliniana anachoreta (W. G. Binney, 1858)",Mollusca,Gastropoda,103,103
+0,816,7TW5P,"Helminthoglypta nickliniana ramentosa (A. A. Gould, 1856)",Mollusca,Gastropoda,46,46
+0,743,7RNB9,"Helminthoglypta petricola (S. S. Berry, 1916)",Mollusca,Gastropoda,102,102
+0,744,7RNBB,"Helminthoglypta phlyctaena (Bartsch, 1916)",Mollusca,Gastropoda,122,99
+0,817,7TW5Y,"Helminthoglypta salviae mina B. Roth, 1987",Mollusca,Gastropoda,29,29
+0,745,7RNBL,"Helminthoglypta sequoicola (J. G. Cooper, 1866)",Mollusca,Gastropoda,245,137
+0,746,7RNBN,"Helminthoglypta sonoma Pilsbry, 1937",Mollusca,Gastropoda,69,69
+0,747,7RNBQ,"Helminthoglypta stiversiana (J. G. Cooper, 1875)",Mollusca,Gastropoda,221,124
+0,748,7RNBW,"Helminthoglypta traskii (Newcomb, 1861)",Mollusca,Gastropoda,885,867
+0,89,3KG22,"Helminthoglypta tudiculata (A. Binney, 1843)",Mollusca,Gastropoda,1815,1778
+0,818,7TW6G,"Helminthoglypta tudiculata grippii (Pilsbry, 1913)",Mollusca,Gastropoda,32,30
+0,749,7RNBY,"Helminthoglypta umbilicata (Pilsbry, 1898)",Mollusca,Gastropoda,379,319
+0,750,7RNC4,"Helminthoglypta walkeriana (Hemphill, 1911)",Mollusca,Gastropoda,77,51
+0,751,7RNV6,"Hemphillia dromedarius B. A. Branson, 1972",Mollusca,Gastropoda,30,29
+0,92,3KTYB,"Hemphillia glandulosa Bland & W. G. Binney, 1872",Mollusca,Gastropoda,28,27
+1,93,3KZ9G,"Hermaea oliviae (MacFarland, 1966)",Mollusca,Gastropoda,75,42
+1,94,3KZ9M,"Hermaea vancouverensis O'Donoghue, 1924",Mollusca,Gastropoda,83,44
+1,95,3L2BH,"Hermissenda crassicornis (Eschscholtz, 1831)",Mollusca,Gastropoda,11572,6230
+0,752,7RNXZ,"Hesperarion hemphilli (W. G. Binney, 1875)",Mollusca,Gastropoda,68,60
+0,753,7RNY3,"Hesperarion niger (J. G. Cooper, 1872)",Mollusca,Gastropoda,453,445
+1,505,6LRCD,"Hespererato vitellina (Hinds, 1844)",Mollusca,Gastropoda,692,348
+1,100,3M2D8,"Hipponix antiquatus (Linnaeus, 1767)",Mollusca,Gastropoda,96,65
+1,101,3MDRK,"Homalopoma baculum (P. P. Carpenter, 1865)",Mollusca,Gastropoda,200,115
+1,896,9CRPX,"Homalopoma carpenteri (Pilsbry, 1889)",Mollusca,Gastropoda,30,18
+1,102,3MDSM,"Homalopoma luridum (Dall, 1885)",Mollusca,Gastropoda,80,57
+1,1077,PP24T,"Hyalina taeniolata (Morch, 1860)",Mollusca,Gastropoda,28,24
+1,509,6MT22,"Hypselodoris californiensis (Bergh, 1879)",Mollusca,Gastropoda,36,33
+1,849,84X5M,"Ilyanassa obsoleta (Say, 1822)",Mollusca,Gastropoda,1002,668
+1,109,3Q6VH,"Iselica fenestrata (P. P. Carpenter, 1864)",Mollusca,Gastropoda,79,49
+1,111,3QF66,"Ividella navisa (Dall & Bartsch, 1907)",Mollusca,Gastropoda,27,15
+1,112,3QLDL,"Janolus anulatus Camacho-García & Gosliner, 2006",Mollusca,Gastropoda,42,33
+1,754,7RRKG,"Janolus barbarensis (J. G. Cooper, 1863)",Mollusca,Gastropoda,30,21
+1,113,3QLJK,"Janthina exigua Lamarck, 1816",Mollusca,Gastropoda,31,22
+1,1080,PZ2T6,"Janthina umbilicata A. d'Orbigny, 1841",Mollusca,Gastropoda,150,120
+0,1081,Q47BQ,"Juga (Juga) silicula (A. A. Gould, 1847)",Mollusca,Gastropoda,47,45
+0,661,7P66Q,"Juga H. Adams & A. Adams, 1854",Mollusca,Gastropoda,96,93
+0,116,3QRQR,"Juga nigrina (I. Lea, 1856)",Mollusca,Gastropoda,398,389
+0,514,6NFKL,"Juga plicifera (I. Lea, 1838)",Mollusca,Gastropoda,1212,1198
+1,119,3RTLM,"Lacuna vincta (Montagu, 1803)",Mollusca,Gastropoda,95,53
+0,120,3RTTV,"Ladislavella elodes (Say, 1821)",Mollusca,Gastropoda,88,87
+1,123,3RYY5,"Lamellaria diegoensis Dall, 1885",Mollusca,Gastropoda,125,79
+0,124,3S7YW,"Lanx alta (Tryon, 1865)",Mollusca,Gastropoda,53,51
+0,126,3SMPF,"Lauria cylindracea (Da Costa, 1778)",Mollusca,Gastropoda,44,43
+1,128,3T7BP,"Leostyletus misakiensis (Baba, 1960)",Mollusca,Gastropoda,44,30
+1,526,6PZZG,"Limacia mcdonaldi R. Uribe, F. Sepúlveda, Goddard & Á. Valdés, 2017",Mollusca,Gastropoda,2513,1385
+1,524,6PZD8,"Limacus flavus (Linnaeus, 1758)",Mollusca,Gastropoda,3227,3151
+0,529,6QBDG,"Limax maximus Linnaeus, 1758",Mollusca,Gastropoda,3019,2939
+1,575,72BTQ,"Limneria prolongata (P. P. Carpenter, 1864)",Mollusca,Gastropoda,46,30
+0,664,7P7KS,"Linisa Pilsbry, 1930",Mollusca,Gastropoda,47,47
+1,134,3VCCM,"Lirabuccinum dirum (Reeve, 1846)",Mollusca,Gastropoda,553,299
+1,135,3VDGX,"Lirobittium attenuatum (P. P. Carpenter, 1864)",Mollusca,Gastropoda,25,19
+1,531,6QJTJ,"Lirobittium quadrifilatum (P. P. Carpenter, 1864)",Mollusca,Gastropoda,32,19
+1,136,3VDLB,"Lirularia lirulata (P. P. Carpenter, 1864)",Mollusca,Gastropoda,40,25
+1,137,3VNPR,"Littorina littorea (Linnaeus, 1758)",Mollusca,Gastropoda,89,56
+1,138,3VNR8,"Littorina planaxis R. A. Philippi, 1847",Mollusca,Gastropoda,48,27
+1,139,3VNRQ,"Littorina saxatilis (Olivi, 1792)",Mollusca,Gastropoda,55,43
+1,532,6QKBV,"Littorina scutulata A. A. Gould, 1849",Mollusca,Gastropoda,1308,758
+1,140,3VNRZ,"Littorina sitkana R. A. Philippi, 1846",Mollusca,Gastropoda,200,144
+1,142,3W7VG,"Lottia austrodigitalis (P. G. Murphy, 1978)",Mollusca,Gastropoda,321,225
+1,143,3W7VL,"Lottia conus (Test, 1945)",Mollusca,Gastropoda,376,216
+1,144,3W7VQ,"Lottia digitalis (Rathke, 1833)",Mollusca,Gastropoda,1532,968
+1,145,3W7VV,"Lottia fascicularis (Menke, 1851)",Mollusca,Gastropoda,36,23
+1,146,3W7VW,"Lottia fenestrata (Reeve, 1855)",Mollusca,Gastropoda,224,141
+1,147,3W7VY,"Lottia gigantea G. B. Sowerby I, 1834",Mollusca,Gastropoda,5151,3370
+1,148,3W7WF,"Lottia mitella (Menke, 1847)",Mollusca,Gastropoda,30,17
+1,149,3W7WN,"Lottia paradigitalis (Fritchman, 1960)",Mollusca,Gastropoda,155,90
+1,150,3W7WS,"Lottia persona (Rathke, 1833)",Mollusca,Gastropoda,556,363
+1,151,3W7WV,"Lottia scabra (A. A. Gould, 1846)",Mollusca,Gastropoda,2777,1623
+1,152,3W7WZ,"Lottia strigatella (P. P. Carpenter, 1864)",Mollusca,Gastropoda,502,282
+0,665,7P832,"Lymnaea Lamarck, 1799",Mollusca,Gastropoda,36,36
+1,162,3Y435,"Margarites pupillus (A. A. Gould, 1849)",Mollusca,Gastropoda,245,132
+0,1129,VBZ7Z,"Margarya chinensis (J. E. Gray, 1833)",Mollusca,Gastropoda,544,539
+1,165,3YH3T,"Maxwellia gemma (G. B. Sowerby II, 1879)",Mollusca,Gastropoda,653,361
+1,174,3Z59B,"Melampus olivaceus P. P. Carpenter, 1857",Mollusca,Gastropoda,399,305
+1,175,3Z89H,"Melanochlamys diomedea (Bergh, 1894)",Mollusca,Gastropoda,56,32
+0,176,3Z8P3,"Melanoides tuberculata (O. F. Müller, 1774)",Mollusca,Gastropoda,147,144
+0,667,7P8PN,"Menetus H. Adams & A. Adams, 1855",Mollusca,Gastropoda,36,36
+0,178,3ZQG3,"Menetus opercularis (A. A. Gould, 1847)",Mollusca,Gastropoda,70,64
+1,182,42KN3,"Mexacanthina lugubris (G. B. Sowerby I, 1822)",Mollusca,Gastropoda,1004,609
+0,668,7P8TW,"Micrarionta Ancey, 1880",Mollusca,Gastropoda,107,98
+0,755,7S5BC,"Micrarionta beatula T. D. A. Cockerell, 1929",Mollusca,Gastropoda,87,63
+0,756,7S5BJ,"Micrarionta facta (Newcomb, 1864)",Mollusca,Gastropoda,140,104
+0,757,7S5BK,"Micrarionta feralis (Hemphill, 1901)",Mollusca,Gastropoda,173,149
+0,758,7S5BL,"Micrarionta gabbii (Newcomb, 1864)",Mollusca,Gastropoda,239,166
+0,183,42QPH,"Micrarionta guadalupiana (Dall, 1898)",Mollusca,Gastropoda,29,21
+0,759,7S5BR,"Micrarionta micromphala Pilsbry, 1939",Mollusca,Gastropoda,36,36
+0,760,7S5BT,"Micrarionta opuntia B. Roth, 1975",Mollusca,Gastropoda,151,126
+0,761,7S5C2,"Micrarionta rufocincta (Newcomb, 1864)",Mollusca,Gastropoda,212,184
+0,762,7S5C3,"Micrarionta sodalis (Hemphill, 1901)",Mollusca,Gastropoda,177,172
+0,185,43BW2,"Milax gagates (Draparnaud, 1801)",Mollusca,Gastropoda,1090,1063
+1,188,43Q75,"Mitra idae Melvill, 1893",Mollusca,Gastropoda,25,16
+1,536,6RL8J,"Mitrella carinata (Hinds, 1844)",Mollusca,Gastropoda,43,26
+1,189,43RDW,"Mitromorpha carpenteri Glibert, 1954",Mollusca,Gastropoda,49,31
+0,763,7S6MV,"Monadenia churchi G D. Hanna & A. G. Smith, 1933",Mollusca,Gastropoda,35,35
+0,192,43ZRG,"Monadenia fidelis (J. E. Gray, 1834)",Mollusca,Gastropoda,5829,5649
+0,961,BNP9C,"Monadenia fidelis flava (Hemphill, 1892)",Mollusca,Gastropoda,124,72
+0,819,7TXVK,"Monadenia fidelis smithiana S. S. Berry, 1940",Mollusca,Gastropoda,33,31
+0,764,7S6MY,"Monadenia infumata (A. A. Gould, 1855)",Mollusca,Gastropoda,1234,1207
+0,820,7TXVN,"Monadenia infumata callidina S. S. Berry, 1940",Mollusca,Gastropoda,131,124
+0,821,7TXVP,"Monadenia infumata infumata (A. A. Gould, 1855)",Mollusca,Gastropoda,52,50
+0,765,7S6N4,"Monadenia mormonum (L. Pfeiffer, 1857)",Mollusca,Gastropoda,82,82
+0,669,7P96F,"Monadenia Pilsbry, 1895",Mollusca,Gastropoda,25,25
+0,870,8M3K9,"Monadenia subcarinata (Hemphill, 1892)",Mollusca,Gastropoda,45,39
+1,869,8HW2X,"Muricanthus nigritus (R. A. Philippi, 1845)",Mollusca,Gastropoda,42,23
+1,204,455S3,"Myosotella myosotis (Draparnaud, 1801)",Mollusca,Gastropoda,205,133
+1,208,45RPX,"Nassarius fossatus (A. A. Gould, 1850)",Mollusca,Gastropoda,157,92
+1,851,84XLW,"Nassarius tiarula (Kiener, 1841)",Mollusca,Gastropoda,47,25
+1,209,45TJK,"Natica chemnitzii L. Pfeiffer, 1840",Mollusca,Gastropoda,26,14
+1,910,9WQWF,"Navanax inermis (J. G. Cooper, 1863)",Mollusca,Gastropoda,4458,3265
+1,583,7494Q,"Nerita funiculata Menke, 1851",Mollusca,Gastropoda,97,59
+1,582,73X4L,"Nerita scabricosta Lamarck, 1822",Mollusca,Gastropoda,313,184
+1,584,749QG,"Neverita lewisii (A. A. Gould, 1847)",Mollusca,Gastropoda,2895,1763
+1,216,47QSW,"Norrisia norrisii (G. B. Sowerby I, 1838)",Mollusca,Gastropoda,3156,1965
+1,217,47V4B,"Notoacmea insessa (Hinds, 1842)",Mollusca,Gastropoda,30,18
+1,218,47VLL,"Notocochlis chemnitzii (L. Pfeiffer, 1840)",Mollusca,Gastropoda,27,19
+0,768,7SCP8,"Noyo intersessa (B. Roth, 1987)",Mollusca,Gastropoda,36,29
+1,219,482KN,"Nucella emarginata (Deshayes, 1839)",Mollusca,Gastropoda,950,553
+1,220,482KS,"Nucella lamellosa (Gmelin, 1791)",Mollusca,Gastropoda,4686,2503
+1,221,482KT,"Nucella lapillus (Linnaeus, 1758)",Mollusca,Gastropoda,99,86
+1,539,6SD8C,"Nucella lima (Gmelin, 1791)",Mollusca,Gastropoda,45,33
+1,222,482KV,"Nucella ostrina (A. A. Gould, 1852)",Mollusca,Gastropoda,2945,2007
+1,769,7SD2N,"Ocenebra circumtexta Stearns, 1871",Mollusca,Gastropoda,84,69
+1,1024,KSMNH,"Ocenebra Leach, 1847",Mollusca,Gastropoda,36,24
+1,228,48GMW,"Ocinebrellus inornatus (Récluz, 1851)",Mollusca,Gastropoda,71,47
+1,770,7SD46,"Ocinebrina lurida (Middendorff, 1848)",Mollusca,Gastropoda,36,19
+1,232,48T2H,"Odostomia nota Dall & Bartsch, 1909",Mollusca,Gastropoda,43,27
+1,233,492BK,"Okenia angelensis Lance, 1966",Mollusca,Gastropoda,32,22
+1,234,492D7,"Okenia rosacea (MacFarland, 1905)",Mollusca,Gastropoda,44,27
+1,235,493KJ,"Olea hansineensis Agersborg, 1923",Mollusca,Gastropoda,26,19
+1,771,7SH33,"Olivella alectona (Duclos, 1835)",Mollusca,Gastropoda,32,28
+1,772,7SH49,"Olivella biplicata (G. B. Sowerby I, 1825)",Mollusca,Gastropoda,200,132
+1,773,7SHCV,"Olivella pedroana (Conrad, 1855)",Mollusca,Gastropoda,63,40
+1,236,498Q3,"Olivella tergina (Duclos, 1835)",Mollusca,Gastropoda,36,21
+1,952,BKJFF,"Onchidella carpenteri (W. G. Binney, 1860)",Mollusca,Gastropoda,405,208
+1,237,49FSG,"Onchidoris bilamellata (Linnaeus, 1767)",Mollusca,Gastropoda,1127,724
+1,238,49FT4,"Onchidoris muricata (O. F. Müller, 1776)",Mollusca,Gastropoda,182,112
+1,542,6SNVY,"Opalia funiculata (P. P. Carpenter, 1857)",Mollusca,Gastropoda,497,320
+1,240,49WZ3,"Ophiodermella inermis (Reeve, 1843)",Mollusca,Gastropoda,379,266
+1,543,6STL4,"Orienthella cooperi (T. D. A. Cockerell, 1901)",Mollusca,Gastropoda,690,356
+1,544,6T5L4,"Orienthella trilineata (O'Donoghue, 1921)",Mollusca,Gastropoda,2264,1299
+0,243,4B22B,"Otala lactea (O. F. Müller, 1774)",Mollusca,Gastropoda,9195,8966
+1,244,4B9NZ,"Ovatella (Myosotella) myosotis (Draparnaud, 1801)",Mollusca,Gastropoda,39,25
+0,245,4BDQ6,"Oxychilus alliarius (J. S. Miller, 1822)",Mollusca,Gastropoda,32,32
+0,246,4BDQK,"Oxychilus cellarius (O. F. Müller, 1774)",Mollusca,Gastropoda,33,33
+0,547,6TFZS,"Oxychilus draparnaudi (H. Beck, 1837)",Mollusca,Gastropoda,1173,1146
+0,671,7PBG5,"Oxychilus Fitzinger, 1833",Mollusca,Gastropoda,276,267
+1,251,4BW46,"Pacifia goddardi (Gosliner, 2010)",Mollusca,Gastropoda,37,20
+1,252,4C56R,"Palio zosterae (O'Donoghue, 1924)",Mollusca,Gastropoda,52,41
+0,258,4CXWZ,"Paralaoma servilis (Shuttleworth, 1852)",Mollusca,Gastropoda,240,236
+1,588,75SX5,"Parviturbo acuticostatus (P. P. Carpenter, 1864)",Mollusca,Gastropoda,55,35
+1,774,7SN82,"Pedipes unisulcatus Cooper, 1866",Mollusca,Gastropoda,87,67
+1,857,872MQ,"Phrontis tiarula (Kiener, 1841)",Mollusca,Gastropoda,239,176
+1,267,4H4TM,"Phyllaplysia taylori Dall, 1900",Mollusca,Gastropoda,732,454
+0,597,77GF7,"Physa acuta Draparnaud, 1805",Mollusca,Gastropoda,37,37
+0,672,7PCJZ,"Physa Draparnaud, 1801",Mollusca,Gastropoda,160,157
+0,775,7SPY7,"Physa virgata A. A. Gould, 1855",Mollusca,Gastropoda,38,23
+0,270,4HGZ8,"Physella acuta (Draparnaud, 1805)",Mollusca,Gastropoda,282,272
+0,271,4HGZH,"Physella gyrina (Say, 1821)",Mollusca,Gastropoda,113,108
+0,673,7PCK5,"Physella Haldeman, 1842",Mollusca,Gastropoda,135,130
+0,272,4HGZW,"Physella osculans (Haldeman, 1841)",Mollusca,Gastropoda,47,47
+0,776,7SQP8,"Planogyra clappi (Pilsbry, 1898)",Mollusca,Gastropoda,29,29
+0,276,4JKKZ,"Planorbella ammon (A. A. Gould, 1855)",Mollusca,Gastropoda,26,24
+0,674,7PCRP,"Planorbella Haldeman, 1843",Mollusca,Gastropoda,74,72
+0,277,4JKLQ,"Planorbella tenuis (Dunker, 1850)",Mollusca,Gastropoda,88,82
+0,278,4JKLS,"Planorbella trivolvis (Say, 1817)",Mollusca,Gastropoda,207,202
+1,972,C624B,"Pleurehdera strongi (MacFarland, 1966)",Mollusca,Gastropoda,296,150
+1,280,4KB29,"Pleurobranchaea californica MacFarland, 1966",Mollusca,Gastropoda,292,156
+1,281,4KG2K,"Plicopurpura columellaris (Lamarck, 1816)",Mollusca,Gastropoda,94,52
+1,283,4KY26,"Polinices reclusianus (Deshayes, 1839)",Mollusca,Gastropoda,30,20
+1,557,6VSDD,"Polycera atra MacFarland, 1905",Mollusca,Gastropoda,4012,2277
+1,599,784DH,"Polycera hedgpethi Er. Marcus, 1964",Mollusca,Gastropoda,1090,640
+1,560,6W5ZT,"Polygyra cereolus (Megerle von Mühlfeld, 1818)",Mollusca,Gastropoda,918,901
+1,947,BHFCW,"Polygyra columbiana (I. Lea, 1838)",Mollusca,Gastropoda,29,27
+1,675,7PD3F,"Polygyra Say, 1818",Mollusca,Gastropoda,47,38
+0,285,4LQ8R,"Pomacea canaliculata (Lamarck, 1822)",Mollusca,Gastropoda,455,454
+1,939,BDT3Y,"Potamides (Bittium) J. E. Gray, 1847",Mollusca,Gastropoda,34,26
+0,1105,S3TKT,"Potamopyrgus antipodarum (J. E. Gray, 1843)",Mollusca,Gastropoda,266,253
+0,860,878VT,"Pristiloma (Pristiloma) stearnsi (Bland, 1875)",Mollusca,Gastropoda,32,32
+0,777,7ST46,"Pristiloma chersinella (Dall, 1866)",Mollusca,Gastropoda,31,30
+0,778,7ST4D,"Pristiloma lansingi (Bland, 1875)",Mollusca,Gastropoda,150,147
+0,779,7ST89,"Prophysaon andersonii (J. G. Cooper, 1872)",Mollusca,Gastropoda,2455,2395
+0,780,7ST8C,"Prophysaon coeruleum T. D. A. Cockerell, 1890",Mollusca,Gastropoda,27,27
+0,781,7ST8D,"Prophysaon dubium T. D. A. Cockerell, 1890",Mollusca,Gastropoda,46,46
+0,782,7ST8H,"Prophysaon foliolatum (A. A. Gould, 1851)",Mollusca,Gastropoda,834,811
+0,783,7ST8N,"Prophysaon vanattae Pilsbry, 1948",Mollusca,Gastropoda,287,271
+1,298,4P2WK,"Pseudomelatoma penicillata (P. P. Carpenter, 1864)",Mollusca,Gastropoda,129,82
+1,299,4P2WN,"Pseudomelatoma torosa (P. P. Carpenter, 1864)",Mollusca,Gastropoda,100,52
+1,300,4P98X,"Pseudopusula californiana (J. E. Gray, 1827)",Mollusca,Gastropoda,712,494
+1,907,9HFLX,"Pseudopusula sanguinea (G. B. Sowerby I, 1832)",Mollusca,Gastropoda,56,31
+0,301,4PCGM,"Pseudosuccinea columella (Say, 1817)",Mollusca,Gastropoda,36,35
+1,302,4PFCB,"Pseudozonaria arabicula (Lamarck, 1810)",Mollusca,Gastropoda,75,40
+1,303,4Q2XF,"Pteropurpura festiva (Hinds, 1844)",Mollusca,Gastropoda,1316,832
+1,304,4Q2XT,"Pteropurpura trialata (G. B. Sowerby II, 1834)",Mollusca,Gastropoda,426,274
+0,307,4QHS5,"Punctum californicum Pilsbry, 1898",Mollusca,Gastropoda,68,66
+0,784,7SW82,"Punctum conspectum (Bland, 1865)",Mollusca,Gastropoda,31,26
+0,308,4QHSQ,"Punctum randolphii (Dall, 1895)",Mollusca,Gastropoda,135,132
+1,309,4QL6Y,"Pusula solandri (J. E. Gray, 1832)",Mollusca,Gastropoda,992,777
+0,676,7PFDW,"Pyrgulopsis Call & Pilsbry, 1886",Mollusca,Gastropoda,43,39
+0,785,7SYXN,"Pyrgulopsis stearnsiana (Pilsbry, 1899)",Mollusca,Gastropoda,77,73
+0,677,7PFHF,"Rabdotus Albers, 1850",Mollusca,Gastropoda,45,37
+0,602,78S5G,"Radix auricularia (Linnaeus, 1758)",Mollusca,Gastropoda,51,47
+1,315,4T2LB,"Rictaxis punctocaelatus (P. P. Carpenter, 1864)",Mollusca,Gastropoda,409,239
+1,316,4TC95,"Roperia poulsoni (P. P. Carpenter, 1864)",Mollusca,Gastropoda,1032,615
+0,786,7T2ZK,"Rothelix lowei (Bartsch, 1918)",Mollusca,Gastropoda,36,36
+0,318,4TQ5X,"Rumina decollata (Linnaeus, 1758)",Mollusca,Gastropoda,3111,3060
+1,320,4TZW8,"Sakuraeolis enosimensis (Baba, 1930)",Mollusca,Gastropoda,80,44
+1,678,7PGGC,"Scurria J. E. Gray, 1847",Mollusca,Gastropoda,30,21
+1,567,6YCLP,"Seila montereyensis Bartsch, 1907",Mollusca,Gastropoda,114,74
+1,330,4XPG9,"Siphonaria maura G. B. Sowerby I, 1835",Mollusca,Gastropoda,54,36
+0,569,6ZGW9,"Stagnicola palustris (O. F. Müller, 1774)",Mollusca,Gastropoda,25,24
+0,788,7T8B9,"Sterkia (Metasterkia) clementina (Sterki, 1890)",Mollusca,Gastropoda,46,46
+1,570,6ZTZF,"Stiliger fuscovittatus Lance, 1962",Mollusca,Gastropoda,325,207
+1,339,52V8Y,"Stramonita biserialis (Blainville, 1832)",Mollusca,Gastropoda,250,137
+0,789,7T8QM,"Striatura pugetensis (Dall, 1895)",Mollusca,Gastropoda,181,175
+0,680,7PHRS,"Succinea Draparnaud, 1801",Mollusca,Gastropoda,47,41
+0,790,7T9N3,"Succinea oregonensis I. Lea, 1841",Mollusca,Gastropoda,37,33
+0,342,53DZ6,"Succinea rusticana A. A. Gould, 1846",Mollusca,Gastropoda,28,25
+1,791,7TBFH,"Taringa aivica Ev. Marcus & Er. Marcus, 1967",Mollusca,Gastropoda,26,17
+1,347,553PL,"Tectura depicta (Hinds, 1842)",Mollusca,Gastropoda,85,54
+1,349,554HG,"Tegula aureotincta (Forbes, 1852)",Mollusca,Gastropoda,1112,648
+1,350,554HT,"Tegula funebralis (A. Adams, 1855)",Mollusca,Gastropoda,8823,5232
+1,608,7BMSK,"Tegula gallina (Forbes, 1852)",Mollusca,Gastropoda,1719,1328
+1,351,554HZ,"Tegula ligulata (Menke, 1851)",Mollusca,Gastropoda,37,23
+1,352,5553C,"Teinostoma supravallatum (P. P. Carpenter, 1864)",Mollusca,Gastropoda,58,37
+1,611,7C2VL,"Tenellia albocrusta (MacFarland, 1966)",Mollusca,Gastropoda,1242,799
+1,609,7BR7M,"Tenellia columbiana (O'Donoghue, 1922)",Mollusca,Gastropoda,282,158
+1,983,CRCW7,"Tenellia spadix (MacFarland, 1966)",Mollusca,Gastropoda,171,90
+1,681,7PJ77,"Terebra Bruguière, 1789",Mollusca,Gastropoda,26,18
+0,356,55JJN,"Testacella haliotidea Draparnaud, 1801",Mollusca,Gastropoda,94,93
+0,357,55JJQ,"Testacella maugei A. Férussac, 1819",Mollusca,Gastropoda,33,22
+1,358,55JL8,"Testudinalia testudinalis (O. F. Müller, 1776)",Mollusca,Gastropoda,31,26
+1,610,7BTDM,"Thais emarginata (Deshayes, 1839)",Mollusca,Gastropoda,30,16
+1,359,55YXS,"Thais lamellosa (Gmelin, 1791)",Mollusca,Gastropoda,66,37
+1,682,7PJ9S,"Thais Röding, 1798",Mollusca,Gastropoda,43,24
+0,360,565SR,"Theba pisana (O. F. Müller, 1774)",Mollusca,Gastropoda,1550,1448
+1,362,56KKH,"Thordisa bimaculata Lance, 1966",Mollusca,Gastropoda,843,591
+1,363,56Q37,"Thylacodes squamigerus (P. P. Carpenter, 1857)",Mollusca,Gastropoda,2104,1261
+1,365,57XWL,"Trapania velox (T. D. A. Cockerell, 1901)",Mollusca,Gastropoda,64,48
+1,367,58MRR,"Tricolia compta (A. A. Gould, 1855)",Mollusca,Gastropoda,27,16
+1,683,7PJVL,"Tricolia Risso, 1826",Mollusca,Gastropoda,42,33
+0,792,7TDP9,"Trilobopsis loricata (A. A. Gould, 1846)",Mollusca,Gastropoda,142,136
+1,368,58VDB,"Trimusculus reticulatus (G. B. Sowerby I, 1835)",Mollusca,Gastropoda,274,152
+1,684,7PJXV,"Triopha Bergh, 1880",Mollusca,Gastropoda,44,23
+1,369,58WL9,"Triopha grandis MacFarland, 1905",Mollusca,Gastropoda,31,16
+1,370,58WLB,"Triopha modesta Bergh, 1880",Mollusca,Gastropoda,619,407
+1,616,7D783,"Triphora pedroana Bartsch, 1907",Mollusca,Gastropoda,31,17
+1,793,7TFDJ,"Tritonia exsulans Bergh, 1894",Mollusca,Gastropoda,97,52
+1,615,7D5ZN,"Tritonia festiva (Stearns, 1873)",Mollusca,Gastropoda,1408,719
+1,794,7TFFC,"Tritonicula myrakeenae (Bertsch & Osuna, 1986)",Mollusca,Gastropoda,236,149
+1,372,595WD,"Trivia californiana (J. E. Gray, 1827)",Mollusca,Gastropoda,25,13
+1,617,7D94T,"Truncatella californica L. Pfeiffer, 1857",Mollusca,Gastropoda,99,77
+1,873,8R7Y6,"Truncatella stimpsonii Stearns, 1872",Mollusca,Gastropoda,47,35
+0,373,59F76,"Tryonia imitator (Pilsbry, 1899)",Mollusca,Gastropoda,27,22
+1,374,59NV9,"Turbonilla kelseyi Dall & Bartsch, 1909",Mollusca,Gastropoda,43,24
+1,375,59TBL,"Tylodina fungina Gabb, 1865",Mollusca,Gastropoda,888,592
+1,377,59Z4D,"Tyrinna evelinae (Er. Marcus, 1958)",Mollusca,Gastropoda,33,30
+1,620,7DYQT,"Urosalpinx cinerea (Say, 1822)",Mollusca,Gastropoda,555,387
+0,622,7FDN6,"Vallonia pulchella (O. F. Müller, 1774)",Mollusca,Gastropoda,79,78
+0,885,8VB7R,"Valvata virens Tryon, 1863",Mollusca,Gastropoda,28,28
+1,623,7FK6X,"Vasula speciosa (Valenciennes, 1832)",Mollusca,Gastropoda,70,40
+0,795,7TLHQ,"Vertigo californica (Rowell, 1862)",Mollusca,Gastropoda,131,110
+0,822,7V44N,"Vertigo californica longa Pilsbry, 1920",Mollusca,Gastropoda,37,34
+0,796,7TLHT,"Vertigo catalinaria (Sterki, 1890)",Mollusca,Gastropoda,97,95
+0,685,7PKRN,"Vertigo O. F. Müller, 1773",Mollusca,Gastropoda,38,24
+0,797,7TLM8,"Vertigo rowellii (Newcomb, 1860)",Mollusca,Gastropoda,37,36
+0,798,7TLNC,"Vespericola armiger (Ancey, 1881)",Mollusca,Gastropoda,57,52
+0,930,B73WL,"Vespericola columbiana (I. Lea, 1838)",Mollusca,Gastropoda,75,71
+0,931,B73WM,"Vespericola columbianus (I. Lea, 1838)",Mollusca,Gastropoda,1087,1047
+0,799,7TLNM,"Vespericola marinensis B. Roth & W. B. Miller, 1993",Mollusca,Gastropoda,44,38
+0,800,7TLNN,"Vespericola megasoma (Pilsbry, 1928)",Mollusca,Gastropoda,131,114
+0,801,7TLNR,"Vespericola pilosus (J. Henderson, 1928)",Mollusca,Gastropoda,32,28
+0,686,7PKRT,"Vespericola Pilsbry, 1939",Mollusca,Gastropoda,67,64
+0,802,7TLNT,"Vespericola pinicola (S. S. Berry, 1916)",Mollusca,Gastropoda,49,34
+1,803,7TMB9,"Vitta luteofasciata (K. Miller, 1879)",Mollusca,Gastropoda,36,34
+1,378,5BQMX,"Volvarina taeniolata Mörch, 1860",Mollusca,Gastropoda,788,555
+0,380,5CCF9,"Xerarionta areolata (L. Pfeiffer, 1845)",Mollusca,Gastropoda,64,56
+0,804,7TNGR,"Xerarionta intercisa (W. G. Binney, 1857)",Mollusca,Gastropoda,510,358
+0,805,7TNGS,"Xerarionta kellettii (Forbes, 1850)",Mollusca,Gastropoda,481,351
+0,381,5CCFB,"Xerarionta levis (L. Pfeiffer, 1845)",Mollusca,Gastropoda,63,51
+0,932,B78KV,"Xerarionta levis canescens (A. Adams & Reeve, 1850)",Mollusca,Gastropoda,25,21
+0,687,7PL5R,"Xerarionta Pilsbry, 1913",Mollusca,Gastropoda,66,55
+0,806,7TNGW,"Xerarionta redimita (W. G. Binney, 1858)",Mollusca,Gastropoda,301,185
+0,379,5CCF5,"Xerarionta stearnsiana (Gabb, 1868)",Mollusca,Gastropoda,610,555
+0,807,7TNH3,"Xerarionta tryoni (Newcomb, 1864)",Mollusca,Gastropoda,592,471
+0,382,5CDKK,"Xerotricha conspurcata (Draparnaud, 1801)",Mollusca,Gastropoda,244,237
+1,808,7TNSB,"Zanassarina penicillata (P. P. Carpenter, 1864)",Mollusca,Gastropoda,57,37
+0,627,7GF7W,"Zonitoides arboreus (Say, 1817)",Mollusca,Gastropoda,175,170
+0,387,5D6WG,"Zonitoides nitidus (O. F. Müller, 1774)",Mollusca,Gastropoda,29,29
+1,909,9WNCB,"Acanthochitona avicula (P. P. Carpenter, 1864)",Mollusca,Polyplacophora,73,44
+1,399,5WVYZ,"Callistochiton crassicostatus Pilsbry, 1893",Mollusca,Polyplacophora,146,77
+1,1119,TDR6,"Chaetopleura lanuginosa (Dall, 1879)",Mollusca,Polyplacophora,131,76
+1,404,5Y5YV,"Chiton articulatus G. B. Sowerby I, 1832",Mollusca,Polyplacophora,137,70
+1,6,32NRP,"Cyanoplax dentiens (A. A. Gould, 1846)",Mollusca,Polyplacophora,485,249
+1,911,9XJR4,"Cyanoplax hartwegii (P. P. Carpenter, 1856)",Mollusca,Polyplacophora,2118,1231
+1,7,32NRS,"Cyanoplax keepiana (S. S. Berry, 1948)",Mollusca,Polyplacophora,351,228
+1,470,6C4QF,"Cyanoplax thomasi (Pilsbry, 1898)",Mollusca,Polyplacophora,67,67
+1,12,34PLW,"Dendrochiton thamnoporus (S. S. Berry, 1911)",Mollusca,Polyplacophora,33,17
+1,108,3Q4P5,"Ischnochiton muscarius (Reeve, 1847)",Mollusca,Polyplacophora,104,64
+1,129,3TB3Y,"Lepidochitona hartwegii (P. P. Carpenter, 1855)",Mollusca,Polyplacophora,155,89
+1,130,3TB43,"Lepidochitona keepiana S. S. Berry, 1948",Mollusca,Polyplacophora,63,40
+1,1086,Q5M58,"Lepidochitona lowei (Pilsbry, 1918)",Mollusca,Polyplacophora,31,17
+1,518,6PBMY,"Lepidozona clathrata (Reeve, 1847)",Mollusca,Polyplacophora,41,21
+1,517,6PBMG,"Lepidozona pectinulata (P. P. Carpenter, 1893)",Mollusca,Polyplacophora,718,452
+1,913,9XQS7,"Mopalia acuta (P. P. Carpenter, 1856)",Mollusca,Polyplacophora,110,62
+1,193,44BQC,"Mopalia ciliata (G. B. Sowerby II, 1840)",Mollusca,Polyplacophora,458,246
+1,194,44BQG,"Mopalia ferreirai R. N. Clark, 1991",Mollusca,Polyplacophora,25,14
+1,195,44BQJ,"Mopalia hindsii (Reeve, 1847)",Mollusca,Polyplacophora,1075,648
+1,766,7S6VT,"Mopalia kennerleyi P. P. Carpenter, 1864",Mollusca,Polyplacophora,247,161
+1,196,44BQN,"Mopalia lignosa (A. A. Gould, 1846)",Mollusca,Polyplacophora,2179,1108
+1,197,44BQP,"Mopalia lionota Pilsbry, 1918",Mollusca,Polyplacophora,33,20
+1,198,44BQQ,"Mopalia lowei Pilsbry, 1918",Mollusca,Polyplacophora,58,34
+1,199,44BQS,"Mopalia muscosa (A. A. Gould, 1846)",Mollusca,Polyplacophora,7009,4250
+1,200,44BQW,"Mopalia porifera Pilsbry, 1893",Mollusca,Polyplacophora,81,49
+1,201,44BR4,"Mopalia spectabilis G. I. Cowan & I. Cowan, 1977",Mollusca,Polyplacophora,191,108
+1,202,44BR5,"Mopalia swanii P. P. Carpenter, 1864",Mollusca,Polyplacophora,76,40
+1,203,44BR7,"Mopalia vespertina (A. A. Gould, 1852)",Mollusca,Polyplacophora,231,147
+1,226,484MW,"Nuttallina californica (Reeve, 1847)",Mollusca,Polyplacophora,4493,3002
+1,227,484MY,"Nuttallina fluxa (P. P. Carpenter, 1864)",Mollusca,Polyplacophora,314,222
+1,787,7T7V2,"Stenoplax conspicua (Dall, 1879)",Mollusca,Polyplacophora,1321,814
+1,337,523NL,"Stenoplax limaciformis (G. B. Sowerby I, 1832)",Mollusca,Polyplacophora,65,37
+1,338,523NP,"Stenoplax magdalenensis (Hinds, 1845)",Mollusca,Polyplacophora,134,71
+1,1076,PMQX9,"Stenoplax P. P. Carpenter, 1879",Mollusca,Polyplacophora,37,28
+0,550,6TPW,"Pohlia Rogalla & Amler, 2006",Mollusca,Rostroconchia,163,163
+1,861,87DBG,"Anisakis Dujardin, 1845",Nematoda,Chromadorea,25,19
+1,1028,KZNMP,"Anisakis simplex (Rudolphi, 1809) Dujardin, 1845",Nematoda,Chromadorea,39,34
+1,862,87F7K,"Contracaecum Railliet & Henry, 1912",Nematoda,Chromadorea,68,55
+0,1055,N56ZZ,"Cynipanguina Maggenti, Hart & Paxman, 1973",Nematoda,Chromadorea,27,26
+1,868,8G6CC,"Cynura cerambus Andrássy, 1973",Nematoda,Chromadorea,29,29
+0,968,BYCXC,"Dictyocaulus eckerti Skrjabin, 1931",Nematoda,Chromadorea,38,38
+0,894,9C9W7,"Heteromyoxyuris deserti Read & Milleman, 1953",Nematoda,Chromadorea,44,44
+0,893,9C8KC,"Heteromyoxyuris longejector Hannum, 1934",Nematoda,Chromadorea,65,65
+0,1090,QD4HF,"Mastophorus Diesing, 1853",Nematoda,Chromadorea,85,85
+0,864,87JX7,"Physaloptera Rudolphi, 1819",Nematoda,Chromadorea,31,31
+1,890,92L8M,"Pseudoterranova Mozgovoi, 1951",Nematoda,Chromadorea,48,45
+0,1107,SLN95,"Pterygodermatites Wedl, 1861",Nematoda,Chromadorea,58,58
+1,863,87FVF,"Enoplus Dujardin, 1845",Nematoda,Enoplea,64,49
+1,866,89288,"Pseudocella wieseri Hope, 1967",Nematoda,Enoplea,25,25
+1,867,899CP,"Thoracostoma microlobatum Allgén, 1947",Nematoda,Enoplea,26,26
+0,657,7P48B,"Gordius Linnaeus, 1758",Nematomorpha,Gordioida,29,28
+1,865,88Q8N,"Emplectonema viride Stimpson, 1857",Nemertea,Hoplonemertea,123,86
+1,581,73V4K,"Nemertopsis gracilis Coe, 1904",Nemertea,Hoplonemertea,25,13
+1,587,75PJ9,"Paranemertes californica Coe, 1904",Nemertea,Hoplonemertea,47,25
+1,843,84RPD,"Paranemertes Coe, 1901",Nemertea,Hoplonemertea,34,18
+1,549,6TPJG,"Paranemertes peregrina Coe, 1901",Nemertea,Hoplonemertea,209,127
+1,975,CCGCZ,"Tubulanus ruber (Griffin, 1898)",Nemertea,Palaeonemertea,244,158
+1,1108,SWJC,"Cerebratulus californiensis Coe, 1905",Nemertea,Pilidiophora,65,33
+1,51,3BNZ7,"Euborlasia nigrocincta Coe, 1940",Nemertea,Pilidiophora,72,57
+1,133,3V2R7,"Lineus pictifrons Coe, 1904",Nemertea,Pilidiophora,51,28
+1,580,73JJ5,"Micrura olivaris Coe, 1905",Nemertea,Pilidiophora,49,33
+1,265,4GS24,"Phoronopsis californica Hilton, 1930",Phoronida,,92,55
+1,663,7P6PF,"Hymenolepis Weinland, 1858",Platyhelminthes,Cestoda,31,28
+0,1095,QPZY6,"Mesocestoides Vaillant, 1863",Platyhelminthes,Cestoda,35,32
+1,697,7Q3JG,"Taenia Linnaeus, 1758",Platyhelminthes,Cestoda,27,25
+1,61,3D4RY,"Euryhaliotrema perezponcei Garcia-Vargas, Fajer-Ávila & Lamothe-Argumedo, 2008",Platyhelminthes,Monogenea,36,36
+1,62,3D4SQ,"Euryhaliotrematoides mehen Soler-Jiménez, García-Gasca & Fajer-Ávila, 2012",Platyhelminthes,Monogenea,39,39
+1,828,7WHW9,"Haliotrematoides guttati (García-Vargas, Fajer-Ávila & Lamothe-Argumedo, 2008) Kritsky, Yang & Sun, 2009",Platyhelminthes,Monogenea,35,35
+1,502,6KYPK,"Haliotrematoides plectridium Kritsky & Mendoza-Franco in Kritsky, Yang & Sun, 2009",Platyhelminthes,Monogenea,33,33
+1,507,6M2XC,"Heterobothrium ecuadori Meserve, 1938",Platyhelminthes,Monogenea,67,67
+1,579,73G6H,"Microcotyloides incisa (Linton, 1910) Fujii, 1944",Platyhelminthes,Monogenea,27,24
+1,210,46B3J,"Neobenedenia melleni (MacCallum, 1927) Yamaguti, 1963",Platyhelminthes,Monogenea,40,40
+1,449,68JKN,"Bianium plicitum (Linton, 1928) Stunkard, 1931",Platyhelminthes,Trematoda,27,27
+1,72,3FLFM,"Genitocotyle acirrus Park, 1937",Platyhelminthes,Trematoda,40,37
+1,87,3K8GK,"Helicometrina nimia Linton, 1910",Platyhelminthes,Trematoda,50,27
+1,666,7P8NF,"Lasiotocus Looss, 1907",Platyhelminthes,Trematoda,66,66
+1,212,46WRT,"Neozoogonus californicus Arai, 1954",Platyhelminthes,Trematoda,212,177
+1,563,6X7DX,"Ribeiroia ondatrae (Price, 1931) Price, 1942",Platyhelminthes,Trematoda,31,31
+1,354,558QP,"Telolecithus pugetensis Lloyd & Guberlet, 1932",Platyhelminthes,Trematoda,96,81
+0,1038,LVFP,"Bipalium adventitium Hyman, 1943",Platyhelminthes,,290,285
+0,1039,LVHK,"Bipalium kewense Moseley, 1878",Platyhelminthes,,799,780
+0,1071,P9YR,"Caenoplana coerulea Moseley, 1877",Platyhelminthes,,36,36
+0,46,39QLC,"Endeavouria septemlineata (Hyman, 1939)",Platyhelminthes,,81,80
+1,63,3D4VT,"Eurylepta californica Hyman, 1959",Platyhelminthes,,217,132
+1,508,6MDQ6,"Hoploplana californica Hyman, 1953",Platyhelminthes,,63,52
+1,117,3QXTW,"Kaburakia excelsa Bock, 1925",Platyhelminthes,,32,21
+0,257,4CXLT,"Parakontikia ventrolineata (Dendy, 1892)",Platyhelminthes,,255,245
+1,601,78DL6,"Pseudoceros canadensis Hyman, 1953",Platyhelminthes,,41,29
+1,294,4NSWT,"Pseudoceros mexicanus Hyman, 1953",Platyhelminthes,,206,137
+1,295,4NSYN,"Pseudoceros velutinus (Blanchard, 1847) Lang, 1884",Platyhelminthes,,73,62
+1,341,539TQ,"Stylochus insolitus Hyman, 1953",Platyhelminthes,,25,20
+1,521,6PSD2,"Leucandra losangelensis (de Laubenfels, 1930)",Porifera,Calcarea,74,40
+1,427,65V3Y,"Aiolochroia thiona (de Laubenfels, 1930)",Porifera,Demospongiae,356,210
+1,1128,V99SX,"Halichondria urca Turner, Morrow, Picton, Goodwin & Thacker, 2025",Porifera,Demospongiae,38,34
+1,1127,V958K,"Halichondria zabra Turner, Morrow, Picton, Goodwin & Thacker, 2025",Porifera,Demospongiae,27,21
+1,105,3NHYZ,"Hymeniacidon perlevis (Montagu, 1814)",Porifera,Demospongiae,203,158
+1,576,72J9N,"Lissodendoryx (Lissodendoryx) noxiosa de Laubenfels, 1930",Porifera,Demospongiae,46,26
+1,973,CB7HS,"Keratella Bory de St. Vincent, 1822",Rotifera,Eurotatoria,36,36
